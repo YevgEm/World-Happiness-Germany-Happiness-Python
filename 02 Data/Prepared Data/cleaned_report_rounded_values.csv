@@ -1,0 +1,1234 @@
+,country,region,happiness_rank,happiness_score,social_support,healthy_life_expectancy,freedom_to_make_life_choices,perceptions_of_corruption,generosity,logged_gdp_per_capita,year
+132,Afghanistan,South Asia,135.0,3.6,0.3,23.4,0.2,0.1,0.4,5.8,2015
+82,Albania,Central and Eastern Europe,83.0,5.0,0.8,62.8,0.4,0.1,0.1,6.8,2015
+59,Algeria,Middle East and North Africa,60.0,5.6,1.1,47.7,0.3,0.2,0.1,6.8,2015
+27,Argentina,Latin America and Caribbean,28.0,6.6,1.2,60.8,0.4,0.1,0.1,7.0,2015
+109,Armenia,Central and Eastern Europe,112.0,4.4,0.8,56.4,0.2,0.0,0.1,6.6,2015
+9,Australia,North America and ANZ,10.0,7.3,1.3,72.0,0.7,0.4,0.4,7.2,2015
+12,Austria,Western Europe,13.0,7.2,1.3,68.8,0.6,0.2,0.3,7.2,2015
+43,Bahrain,Middle East and North Africa,44.0,6.0,1.2,57.7,0.5,0.3,0.2,7.2,2015
+94,Bangladesh,South Asia,96.0,4.7,0.4,46.5,0.4,0.1,0.2,6.0,2015
+18,Belgium,Western Europe,19.0,6.9,1.3,69.3,0.6,0.2,0.2,7.2,2015
+133,Benin,Sub-Saharan Africa,136.0,3.3,0.4,24.7,0.5,0.1,0.2,5.7,2015
+45,Bolivia,Latin America and Caribbean,46.0,5.9,1.0,41.7,0.6,0.1,0.2,6.5,2015
+83,Bosnia and Herzegovina,Central and Eastern Europe,84.0,4.9,0.9,61.1,0.1,0.0,0.2,6.7,2015
+110,Botswana,Sub-Saharan Africa,113.0,4.3,1.1,3.7,0.5,0.1,0.1,6.9,2015
+15,Brazil,Latin America and Caribbean,16.0,7.0,1.2,53.9,0.5,0.2,0.1,6.9,2015
+116,Bulgaria,Central and Eastern Europe,119.0,4.2,1.1,59.2,0.3,0.0,0.1,6.9,2015
+131,Burkina Faso,Sub-Saharan Africa,134.0,3.6,0.9,21.0,0.4,0.1,0.2,5.6,2015
+125,Cambodia,Southeast Asia,128.0,3.8,0.6,47.2,0.7,0.1,0.4,6.1,2015
+115,Cameroon,Sub-Saharan Africa,118.0,4.3,0.9,18.1,0.5,0.1,0.2,6.0,2015
+4,Canada,North America and ANZ,5.0,7.4,1.3,70.0,0.6,0.3,0.5,7.2,2015
+128,Chad,Sub-Saharan Africa,131.0,3.7,0.8,11.6,0.2,0.1,0.2,5.8,2015
+25,Chile,Latin America and Caribbean,26.0,6.7,1.1,66.4,0.4,0.1,0.3,7.0,2015
+72,China,East Asia,73.0,5.1,0.9,63.1,0.5,0.0,0.1,6.8,2015
+30,Colombia,Latin America and Caribbean,31.0,6.5,1.2,53.4,0.5,0.1,0.2,6.8,2015
+120,Comoros,Sub-Saharan Africa,123.0,4.0,0.8,28.1,0.2,0.2,0.2,5.5,2015
+119,Congo (Brazzaville),Sub-Saharan Africa,122.0,4.0,0.7,24.0,0.4,0.1,0.1,6.5,2015
+103,Congo (Kinshasa),Sub-Saharan Africa,106.0,4.5,1.0,7.6,0.2,0.1,0.2,0.0,2015
+11,Costa Rica,Latin America and Caribbean,12.0,7.2,1.2,66.5,0.6,0.1,0.3,6.9,2015
+55,Croatia,Central and Eastern Europe,56.0,5.8,0.8,60.9,0.3,0.0,0.1,7.0,2015
+58,Cyprus,Western Europe,59.0,5.7,0.9,71.4,0.4,0.1,0.3,7.1,2015
+28,Czechia,Central and Eastern Europe,29.0,6.5,1.2,65.3,0.5,0.0,0.1,7.1,2015
+2,Denmark,Western Europe,3.0,7.5,1.4,67.6,0.6,0.5,0.3,7.2,2015
+84,Dominican Republic,Latin America and Caribbean,85.0,4.9,1.2,51.6,0.6,0.1,0.2,6.8,2015
+42,Ecuador,Latin America and Caribbean,43.0,6.0,1.0,61.1,0.5,0.2,0.1,6.8,2015
+117,Egypt,Middle East and North Africa,120.0,4.2,0.7,47.7,0.2,0.1,0.1,6.8,2015
+36,El Salvador,Latin America and Caribbean,37.0,6.1,1.0,52.3,0.4,0.1,0.1,6.6,2015
+63,Estonia,Central and Eastern Europe,64.0,5.4,1.2,59.8,0.4,0.2,0.1,7.0,2015
+105,Ethiopia,Sub-Saharan Africa,108.0,4.5,0.6,34.0,0.4,0.2,0.2,5.3,2015
+5,Finland,Western Europe,6.0,7.4,1.3,68.7,0.6,0.4,0.2,7.2,2015
+26,France,Western Europe,27.0,6.6,1.3,73.1,0.6,0.2,0.1,7.2,2015
+123,Gabon,Sub-Saharan Africa,126.0,3.9,0.9,33.5,0.3,0.1,0.1,7.0,2015
+135,Gambia,Sub-Saharan Africa,90.0,4.8,0.6,45.7,0.6,0.6,0.4,7.6,2015
+112,Georgia,Central and Eastern Europe,115.0,4.3,0.4,56.4,0.4,0.4,0.1,6.6,2015
+24,Germany,Western Europe,25.0,6.8,1.3,68.9,0.6,0.2,0.3,7.2,2015
+99,Ghana,Sub-Saharan Africa,101.0,4.6,0.7,31.0,0.4,0.0,0.2,6.3,2015
+87,Greece,Western Europe,88.0,4.9,0.9,68.2,0.1,0.0,0.0,7.1,2015
+37,Guatemala,Latin America and Caribbean,38.0,6.1,1.0,49.8,0.6,0.1,0.3,6.6,2015
+129,Guinea,Sub-Saharan Africa,132.0,3.7,0.5,18.6,0.4,0.1,0.3,5.2,2015
+90,Honduras,Latin America and Caribbean,92.0,4.8,1.0,53.7,0.4,0.1,0.2,6.4,2015
+62,Hong Kong S.A.R. of China,East Asia,63.0,5.5,1.1,78.3,0.6,0.4,0.4,7.2,2015
+89,Hungary,Central and Eastern Europe,91.0,4.8,1.2,58.7,0.3,0.0,0.1,7.0,2015
+1,Iceland,Western Europe,2.0,7.6,1.4,73.2,0.6,0.1,0.4,7.2,2015
+102,India,South Asia,104.0,4.6,0.4,39.8,0.4,0.1,0.3,6.5,2015
+64,Indonesia,Southeast Asia,65.0,5.4,1.1,49.3,0.5,0.0,0.5,6.7,2015
+95,Iran,Middle East and North Africa,97.0,4.7,0.5,53.9,0.3,0.1,0.4,6.9,2015
+97,Iraq,Middle East and North Africa,99.0,4.7,0.8,46.6,0.0,0.1,0.2,6.9,2015
+17,Ireland,Western Europe,18.0,6.9,1.4,69.2,0.6,0.3,0.5,7.2,2015
+10,Israel,Middle East and North Africa,11.0,7.3,1.2,70.6,0.4,0.1,0.3,7.1,2015
+44,Italy,Western Europe,45.0,5.9,1.2,73.8,0.3,0.0,0.2,7.1,2015
+130,Ivory Coast,Sub-Saharan Africa,133.0,3.7,0.8,11.7,0.5,0.2,0.2,6.1,2015
+57,Jamaica,Latin America and Caribbean,58.0,5.7,1.2,53.1,0.5,0.0,0.2,6.7,2015
+40,Japan,East Asia,41.0,6.0,1.3,76.6,0.5,0.2,0.1,7.1,2015
+70,Jordan,Middle East and North Africa,71.0,5.2,1.1,53.8,0.4,0.1,0.1,6.8,2015
+48,Kazakhstan,Central and Eastern Europe,49.0,5.9,1.1,49.7,0.5,0.1,0.1,7.0,2015
+108,Kenya,Sub-Saharan Africa,111.0,4.4,1.0,32.0,0.4,0.1,0.4,5.9,2015
+60,Kosovo,Central and Eastern Europe,61.0,5.6,0.8,48.8,0.2,0.0,0.3,6.7,2015
+67,Kyrgyzstan,Central and Eastern Europe,68.0,5.3,1.2,50.3,0.4,0.0,0.3,6.2,2015
+85,Laos,Southeast Asia,86.0,4.9,0.7,42.4,0.6,0.2,0.4,6.4,2015
+77,Latvia,Central and Eastern Europe,78.0,5.1,1.1,56.0,0.3,0.1,0.2,7.0,2015
+88,Lebanon,Middle East and North Africa,89.0,4.8,0.8,64.9,0.3,0.0,0.2,6.9,2015
+101,Liberia,Sub-Saharan Africa,103.0,4.6,0.8,26.4,0.3,0.1,0.2,4.3,2015
+50,Lithuania,Central and Eastern Europe,51.0,5.8,1.3,56.5,0.2,0.0,0.0,7.0,2015
+16,Luxembourg,Western Europe,17.0,6.9,1.2,71.0,0.6,0.4,0.3,7.4,2015
+127,Madagascar,Sub-Saharan Africa,130.0,3.7,0.7,36.1,0.2,0.1,0.2,5.3,2015
+113,Malawi,Sub-Saharan Africa,116.0,4.3,0.4,17.4,0.4,0.1,0.3,2.8,2015
+54,Malaysia,Southeast Asia,55.0,5.8,1.1,55.9,0.5,0.1,0.3,7.0,2015
+118,Mali,Sub-Saharan Africa,121.0,4.0,1.0,15.9,0.4,0.1,0.2,5.6,2015
+34,Malta,Western Europe,35.0,6.3,1.3,68.6,0.6,0.1,0.5,7.1,2015
+107,Mauritania,Sub-Saharan Africa,110.0,4.4,0.9,27.7,0.2,0.2,0.2,6.1,2015
+61,Mauritius,Sub-Saharan Africa,62.0,5.5,1.0,54.8,0.6,0.1,0.4,6.9,2015
+13,Mexico,Latin America and Caribbean,14.0,7.2,0.9,62.9,0.5,0.2,0.1,6.9,2015
+46,Moldova,Central and Eastern Europe,47.0,5.9,1.0,47.8,0.3,0.0,0.2,6.4,2015
+86,Mongolia,East Asia,87.0,4.9,1.3,46.6,0.4,0.0,0.3,6.7,2015
+71,Montenegro,Central and Eastern Europe,71.0,5.2,0.9,56.0,0.2,0.1,0.2,6.9,2015
+79,Morocco,Middle East and North Africa,80.0,5.0,0.6,47.1,0.4,0.1,0.1,6.6,2015
+81,Mozambique,Sub-Saharan Africa,82.0,5.0,1.0,7.1,0.3,0.2,0.2,4.4,2015
+111,Myanmar,Southeast Asia,114.0,4.3,0.7,37.3,0.4,0.2,0.8,5.6,2015
+136,Namibia,Southeast Asia,105.0,4.5,0.9,36.7,0.6,0.4,-0.0,7.9,2015
+104,Nepal,South Asia,107.0,4.5,0.9,44.0,0.4,0.1,0.3,5.9,2015
+6,Netherlands,Western Europe,7.0,7.4,1.3,69.0,0.6,0.3,0.5,7.2,2015
+8,New Zealand,North America and ANZ,9.0,7.3,1.3,70.2,0.6,0.4,0.5,7.1,2015
+51,Nicaragua,Latin America and Caribbean,52.0,5.8,1.1,57.4,0.6,0.2,0.3,6.4,2015
+124,Niger,Sub-Saharan Africa,127.0,3.8,0.8,23.0,0.5,0.2,0.2,4.3,2015
+68,Nigeria,Sub-Saharan Africa,69.0,5.3,0.9,12.4,0.3,0.0,0.3,6.5,2015
+80,North Macedonia,Central and Eastern Europe,81.0,5.0,1.0,56.8,0.3,0.1,0.2,6.8,2015
+3,Norway,Western Europe,4.0,7.5,1.3,68.4,0.7,0.4,0.3,7.3,2015
+69,Pakistan,South Asia,70.0,5.2,0.4,39.8,0.1,0.1,0.3,6.4,2015
+23,Panama,Latin America and Caribbean,24.0,6.8,1.2,61.6,0.5,0.1,0.2,7.0,2015
+47,Paraguay,Latin America and Caribbean,48.0,5.9,1.3,51.1,0.5,0.1,0.3,6.6,2015
+52,Peru,Latin America and Caribbean,53.0,5.8,1.0,56.4,0.4,0.1,0.1,6.8,2015
+78,Philippines,Southeast Asia,79.0,5.1,1.0,44.9,0.6,0.1,0.2,6.6,2015
+53,Poland,Central and Eastern Europe,54.0,5.8,1.3,60.2,0.5,0.0,0.2,7.0,2015
+76,Portugal,Western Europe,77.0,5.1,1.1,67.6,0.5,0.0,0.1,7.1,2015
+74,Romania,Central and Eastern Europe,75.0,5.1,0.9,59.4,0.4,0.0,0.1,7.0,2015
+56,Russia,Central and Eastern Europe,57.0,5.7,1.2,51.7,0.4,0.0,0.0,7.0,2015
+32,Saudi Arabia,Middle East and North Africa,33.0,6.4,1.1,55.7,0.3,0.3,0.1,7.2,2015
+122,Senegal,Sub-Saharan Africa,125.0,3.9,1.0,33.6,0.4,0.1,0.2,5.9,2015
+75,Serbia,Central and Eastern Europe,76.0,5.1,1.0,57.8,0.2,0.0,0.2,6.8,2015
+106,Sierra Leone,Sub-Saharan Africa,109.0,4.5,1.0,0.0,0.4,0.1,0.2,5.8,2015
+22,Singapore,Southeast Asia,23.0,6.8,1.0,79.2,0.5,0.5,0.3,7.3,2015
+39,Slovakia,Central and Eastern Europe,40.0,6.0,1.3,61.0,0.3,0.0,0.2,7.1,2015
+49,Slovenia,Central and Eastern Europe,50.0,5.8,1.3,67.5,0.6,0.0,0.3,7.1,2015
+98,South Africa,Sub-Saharan Africa,100.0,4.6,1.2,21.4,0.3,0.1,0.1,6.8,2015
+41,South Korea,East Asia,42.0,6.0,1.0,74.6,0.3,0.1,0.2,7.1,2015
+33,Spain,Western Europe,34.0,6.3,1.3,73.9,0.5,0.1,0.2,7.1,2015
+114,Sri Lanka,South Asia,117.0,4.3,1.0,54.7,0.5,0.1,0.4,6.7,2015
+93,State of Palestine,Middle East and North Africa,95.0,4.7,0.9,51.0,0.2,0.1,0.1,6.4,2015
+7,Sweden,Western Europe,8.0,7.4,1.3,70.4,0.7,0.4,0.4,7.2,2015
+0,Switzerland,Western Europe,1.0,7.6,1.3,72.8,0.7,0.4,0.3,7.2,2015
+35,Taiwan Province of China,East Asia,36.0,6.3,1.1,67.6,0.4,0.1,0.3,7.2,2015
+91,Tajikistan,Central and Eastern Europe,93.0,4.8,0.9,44.3,0.5,0.2,0.2,6.0,2015
+126,Tanzania,Sub-Saharan Africa,129.0,3.8,1.0,29.5,0.3,0.1,0.3,5.7,2015
+31,Thailand,Southeast Asia,32.0,6.5,1.3,57.1,0.6,0.0,0.6,6.9,2015
+134,Togo,Sub-Saharan Africa,137.0,2.8,0.1,22.0,0.4,0.1,0.2,5.3,2015
+92,Tunisia,Middle East and North Africa,94.0,4.7,0.6,57.0,0.3,0.1,0.1,6.8,2015
+66,Turkiye,Middle East and North Africa,67.0,5.3,0.9,56.5,0.2,0.2,0.1,7.0,2015
+121,Uganda,Sub-Saharan Africa,124.0,3.9,1.1,26.2,0.5,0.1,0.3,5.4,2015
+96,Ukraine,Central and Eastern Europe,98.0,4.7,1.2,52.1,0.3,0.0,0.2,6.7,2015
+19,United Arab Emirates,Middle East and North Africa,20.0,6.9,1.1,62.5,0.6,0.4,0.3,7.3,2015
+20,United Kingdom,Western Europe,21.0,6.9,1.3,70.3,0.6,0.3,0.5,7.1,2015
+14,United States,North America and ANZ,15.0,7.1,1.2,66.6,0.5,0.2,0.4,7.2,2015
+29,Uruguay,Latin America and Caribbean,30.0,6.5,1.2,62.7,0.6,0.2,0.2,7.0,2015
+38,Uzbekistan,Central and Eastern Europe,39.0,6.0,1.3,46.2,0.7,0.3,0.2,6.5,2015
+21,Venezuela,Latin America and Caribbean,22.0,6.8,1.3,55.7,0.4,0.1,0.1,7.0,2015
+65,Vietnam,Southeast Asia,66.0,5.4,0.9,57.7,0.6,0.1,0.2,6.5,2015
+73,Zambia,Sub-Saharan Africa,74.0,5.1,0.9,23.1,0.5,0.1,0.2,6.2,2015
+100,Zimbabwe,Sub-Saharan Africa,102.0,4.6,1.0,25.9,0.3,0.1,0.2,5.6,2015
+270,Afghanistan,South Asia,136.0,3.4,0.1,13.4,0.2,0.1,0.3,5.9,2016
+231,Albania,Central and Eastern Europe,97.0,4.7,0.5,56.4,0.3,0.1,0.2,6.9,2016
+172,Algeria,Middle East and North Africa,36.0,6.4,0.8,47.8,0.2,0.2,0.1,7.0,2016
+161,Argentina,Latin America and Caribbean,25.0,6.6,1.1,53.9,0.4,0.1,0.1,7.0,2016
+243,Armenia,Central and Eastern Europe,109.0,4.4,0.6,49.5,0.1,0.0,0.1,6.8,2016
+145,Australia,North America and ANZ,9.0,7.3,1.1,65.8,0.6,0.3,0.5,7.3,2016
+148,Austria,Western Europe,12.0,7.1,1.1,62.3,0.5,0.2,0.3,7.3,2016
+174,Bahrain,Middle East and North Africa,38.0,6.2,0.9,50.8,0.5,0.3,0.2,7.3,2016
+232,Bangladesh,South Asia,98.0,4.6,0.2,40.9,0.4,0.1,0.2,6.3,2016
+153,Belgium,Western Europe,17.0,6.9,1.1,63.3,0.5,0.3,0.2,7.3,2016
+269,Benin,Sub-Saharan Africa,135.0,3.5,0.1,16.3,0.4,0.1,0.2,6.0,2016
+189,Bolivia,Latin America and Caribbean,53.0,5.8,0.8,36.3,0.5,0.1,0.2,6.7,2016
+210,Bosnia and Herzegovina,Central and Eastern Europe,74.0,5.2,0.6,54.7,0.1,0.0,0.3,6.8,2016
+257,Botswana,Sub-Saharan Africa,123.0,4.0,0.9,26.9,0.4,0.1,0.1,7.0,2016
+152,Brazil,Latin America and Caribbean,16.0,7.0,1.0,47.5,0.4,0.1,0.2,7.0,2016
+251,Bulgaria,Central and Eastern Europe,117.0,4.2,0.9,52.4,0.2,0.0,0.1,7.0,2016
+263,Burkina Faso,Sub-Saharan Africa,129.0,3.7,0.6,16.5,0.3,0.1,0.2,5.8,2016
+260,Cambodia,Southeast Asia,126.0,3.9,0.5,32.8,0.6,0.1,0.4,6.3,2016
+236,Cameroon,Sub-Saharan Africa,102.0,4.5,0.6,9.8,0.4,0.1,0.2,6.3,2016
+142,Canada,North America and ANZ,6.0,7.4,1.1,64.0,0.6,0.3,0.4,7.3,2016
+262,Chad,Sub-Saharan Africa,128.0,3.8,0.6,3.0,0.1,0.0,0.2,6.0,2016
+159,Chile,Latin America and Caribbean,23.0,6.7,0.9,63.3,0.4,0.1,0.3,7.1,2016
+207,China,East Asia,71.0,5.2,0.8,56.8,0.4,0.0,0.0,6.9,2016
+166,Colombia,Latin America and Caribbean,30.0,6.5,1.0,46.1,0.4,0.1,0.2,6.9,2016
+258,Comoros,Sub-Saharan Africa,124.0,4.0,0.6,23.2,0.2,0.2,0.2,5.6,2016
+249,Congo (Brazzaville),Sub-Saharan Africa,115.0,4.2,0.5,21.8,0.4,0.1,0.1,6.6,2016
+247,Congo (Kinshasa),Sub-Saharan Africa,113.0,4.3,0.8,14.5,0.2,0.1,0.3,4.1,2016
+150,Costa Rica,Latin America and Caribbean,14.0,7.1,1.0,58.8,0.6,0.1,0.2,7.0,2016
+200,Croatia,Central and Eastern Europe,64.0,5.5,0.6,54.5,0.2,0.0,0.2,7.1,2016
+195,Cyprus,Western Europe,59.0,5.5,0.7,65.6,0.3,0.1,0.3,7.2,2016
+162,Czechia,Central and Eastern Europe,26.0,6.6,1.0,59.0,0.4,0.0,0.1,7.2,2016
+137,Denmark,Western Europe,1.0,7.5,1.2,61.4,0.6,0.4,0.4,7.3,2016
+212,Dominican Republic,Latin America and Caribbean,76.0,5.2,1.0,44.6,0.5,0.1,0.2,6.9,2016
+182,Ecuador,Latin America and Caribbean,46.0,6.0,0.9,53.0,0.4,0.2,0.1,6.9,2016
+242,Egypt,Middle East and North Africa,108.0,4.4,0.5,40.3,0.2,0.1,0.1,6.9,2016
+177,El Salvador,Latin America and Caribbean,41.0,6.1,0.8,46.1,0.4,0.1,0.1,6.8,2016
+198,Estonia,Central and Eastern Europe,62.0,5.5,1.1,52.6,0.4,0.2,0.1,7.2,2016
+237,Ethiopia,Sub-Saharan Africa,103.0,4.5,0.4,26.7,0.4,0.2,0.3,5.7,2016
+141,Finland,Western Europe,5.0,7.4,1.1,62.7,0.6,0.4,0.3,7.2,2016
+167,France,Western Europe,31.0,6.5,1.0,64.8,0.5,0.2,0.1,7.2,2016
+255,Gabon,Sub-Saharan Africa,121.0,4.1,0.7,27.0,0.3,0.1,0.1,7.1,2016
+272,Gambia,Sub-Saharan Africa,92.0,4.8,0.6,45.7,0.6,0.6,0.4,7.6,2016
+248,Georgia,Central and Eastern Europe,114.0,4.3,0.2,49.5,0.3,0.3,0.1,6.7,2016
+151,Germany,Western Europe,15.0,7.0,1.1,63.0,0.5,0.3,0.3,7.3,2016
+246,Ghana,Sub-Saharan Africa,112.0,4.3,0.5,22.9,0.4,0.0,0.2,6.4,2016
+221,Greece,Western Europe,85.0,5.0,0.8,61.8,0.1,0.0,0.0,7.1,2016
+173,Guatemala,Latin America and Caribbean,37.0,6.3,0.9,41.8,0.5,0.1,0.3,6.7,2016
+268,Guinea,Sub-Saharan Africa,134.0,3.6,0.3,14.6,0.3,0.1,0.3,5.4,2016
+226,Honduras,Latin America and Caribbean,90.0,4.9,0.8,45.1,0.3,0.1,0.2,6.5,2016
+201,Hong Kong S.A.R. of China,East Asia,65.0,5.5,0.9,73.6,0.5,0.3,0.4,7.3,2016
+214,Hungary,Central and Eastern Europe,78.0,5.1,0.9,52.2,0.2,0.0,0.1,7.1,2016
+139,Iceland,Western Europe,3.0,7.5,1.2,67.0,0.6,0.1,0.5,7.3,2016
+240,India,South Asia,106.0,4.4,0.3,34.8,0.4,0.1,0.3,6.6,2016
+204,Indonesia,Southeast Asia,68.0,5.3,0.9,38.2,0.4,0.0,0.6,6.9,2016
+227,Iran,Middle East and North Africa,91.0,4.8,0.4,49.6,0.2,0.1,0.4,7.0,2016
+234,Iraq,Middle East and North Africa,100.0,4.6,0.6,39.5,0.2,0.1,0.2,7.0,2016
+154,Ireland,Western Europe,18.0,6.9,1.2,62.9,0.5,0.3,0.4,7.3,2016
+147,Israel,Middle East and North Africa,11.0,7.3,1.0,65.6,0.4,0.1,0.3,7.2,2016
+181,Italy,Western Europe,45.0,6.0,1.0,65.8,0.2,0.0,0.2,7.2,2016
+259,Ivory Coast,Sub-Saharan Africa,125.0,3.9,0.6,3.5,0.4,0.2,0.2,6.3,2016
+199,Jamaica,Latin America and Caribbean,63.0,5.5,1.0,46.0,0.4,0.0,0.2,6.8,2016
+183,Japan,East Asia,47.0,5.9,1.1,70.7,0.5,0.2,0.1,7.2,2016
+205,Jordan,Middle East and North Africa,69.0,5.3,0.9,46.9,0.4,0.1,0.1,6.9,2016
+184,Kazakhstan,Central and Eastern Europe,48.0,5.9,1.0,44.3,0.4,0.1,0.2,7.1,2016
+244,Kenya,Sub-Saharan Africa,110.0,4.4,0.8,23.3,0.4,0.1,0.4,6.3,2016
+202,Kosovo,Central and Eastern Europe,66.0,5.4,0.7,41.7,0.1,0.1,0.3,6.8,2016
+208,Kyrgyzstan,Central and Eastern Europe,72.0,5.2,1.0,42.9,0.4,0.0,0.4,6.3,2016
+224,Laos,Southeast Asia,88.0,4.9,0.5,29.6,0.5,0.2,0.4,6.5,2016
+194,Latvia,Central and Eastern Europe,58.0,5.6,1.0,49.4,0.3,0.1,0.2,7.1,2016
+216,Lebanon,Middle East and North Africa,80.0,5.1,0.6,58.9,0.3,0.0,0.2,7.0,2016
+267,Liberia,Sub-Saharan Africa,133.0,3.6,0.5,17.9,0.3,0.0,0.2,4.7,2016
+190,Lithuania,Central and Eastern Europe,54.0,5.8,1.1,50.0,0.2,0.0,0.0,7.1,2016
+155,Luxembourg,Western Europe,19.0,6.9,1.0,65.3,0.5,0.4,0.3,7.4,2016
+265,Madagascar,Sub-Saharan Africa,131.0,3.7,0.5,28.7,0.1,0.1,0.2,5.6,2016
+254,Malawi,Sub-Saharan Africa,120.0,4.2,0.1,22.7,0.4,0.1,0.3,4.5,2016
+178,Malaysia,Southeast Asia,42.0,6.0,0.9,48.2,0.4,0.1,0.4,7.1,2016
+256,Mali,Sub-Saharan Africa,122.0,4.1,0.9,12.6,0.3,0.1,0.2,5.7,2016
+165,Malta,Western Europe,29.0,6.5,1.1,62.1,0.5,0.2,0.6,7.2,2016
+252,Mauritania,Sub-Saharan Africa,118.0,4.2,0.8,22.1,0.1,0.2,0.2,6.4,2016
+193,Mauritius,Sub-Saharan Africa,57.0,5.6,0.8,51.2,0.5,0.1,0.4,7.0,2016
+156,Mexico,Latin America and Caribbean,20.0,6.8,0.7,55.0,0.4,0.2,0.1,7.0,2016
+185,Moldova,Central and Eastern Europe,49.0,5.9,0.8,40.4,0.3,0.0,0.2,6.5,2016
+223,Mongolia,East Asia,87.0,4.9,1.1,42.9,0.4,0.0,0.3,6.9,2016
+211,Montenegro,Central and Eastern Europe,75.0,5.2,0.7,49.1,0.2,0.1,0.2,7.0,2016
+213,Morocco,Middle East and North Africa,77.0,5.2,0.4,46.0,0.3,0.1,0.0,6.7,2016
+273,Mozambique,Sub-Saharan Africa,96.0,4.7,0.8,26.3,0.6,0.3,0.2,6.2,2016
+241,Myanmar,Southeast Asia,107.0,4.4,0.7,30.8,0.4,0.2,0.8,5.8,2016
+235,Namibia,Sub-Saharan Africa,101.0,4.6,0.7,26.9,0.5,0.1,0.1,6.8,2016
+229,Nepal,South Asia,94.0,4.8,0.7,38.7,0.4,0.1,0.4,6.1,2016
+143,Netherlands,Western Europe,7.0,7.3,1.0,62.8,0.6,0.3,0.5,7.3,2016
+144,New Zealand,North America and ANZ,8.0,7.3,1.2,64.2,0.6,0.4,0.5,7.2,2016
+179,Nicaragua,Latin America and Caribbean,43.0,6.0,0.9,50.4,0.5,0.2,0.3,6.5,2016
+261,Niger,Sub-Saharan Africa,127.0,3.9,0.6,20.2,0.4,0.2,0.2,4.9,2016
+225,Nigeria,Sub-Saharan Africa,89.0,4.9,0.6,3.9,0.3,0.0,0.2,6.6,2016
+218,North Macedonia,Central and Eastern Europe,82.0,5.1,0.8,50.0,0.3,0.1,0.2,6.9,2016
+140,Norway,Western Europe,4.0,7.5,1.1,61.5,0.6,0.4,0.4,7.4,2016
+215,Pakistan,South Asia,79.0,5.1,0.3,31.1,0.1,0.1,0.3,6.5,2016
+160,Panama,Latin America and Caribbean,24.0,6.7,1.0,54.7,0.5,0.1,0.2,7.1,2016
+196,Paraguay,Latin America and Caribbean,60.0,5.5,1.1,45.1,0.5,0.1,0.3,6.8,2016
+192,Peru,Latin America and Caribbean,56.0,5.7,0.8,48.7,0.4,0.1,0.1,6.9,2016
+206,Philippines,Southeast Asia,70.0,5.3,0.9,36.3,0.5,0.1,0.2,6.7,2016
+187,Poland,Central and Eastern Europe,51.0,5.8,1.0,53.4,0.5,0.1,0.1,7.1,2016
+217,Portugal,Western Europe,81.0,5.1,0.9,61.3,0.4,0.0,0.1,7.2,2016
+197,Romania,Central and Eastern Europe,61.0,5.5,0.7,52.2,0.4,0.0,0.1,7.1,2016
+186,Russia,Central and Eastern Europe,50.0,5.9,1.1,45.6,0.3,0.0,0.0,7.1,2016
+169,Saudi Arabia,Middle East and North Africa,33.0,6.4,0.8,45.8,0.4,0.3,0.2,7.3,2016
+250,Senegal,Sub-Saharan Africa,116.0,4.2,0.8,31.3,0.3,0.1,0.2,6.1,2016
+209,Serbia,Central and Eastern Europe,73.0,5.2,0.8,49.9,0.2,0.0,0.2,6.9,2016
+233,Sierra Leone,Sub-Saharan Africa,99.0,4.6,0.6,0.0,0.3,0.1,0.2,5.9,2016
+157,Singapore,Southeast Asia,21.0,6.7,0.9,73.2,0.5,0.5,0.3,7.4,2016
+176,Slovakia,Central and Eastern Europe,40.0,6.1,1.1,54.4,0.2,0.0,0.1,7.2,2016
+191,Slovenia,Central and Eastern Europe,55.0,5.8,1.1,61.2,0.5,0.0,0.3,7.2,2016
+238,South Africa,Sub-Saharan Africa,104.0,4.5,1.0,14.4,0.4,0.1,0.1,6.9,2016
+188,South Korea,East Asia,51.0,5.8,0.7,68.5,0.3,0.1,0.2,7.2,2016
+171,Spain,Western Europe,35.0,6.4,1.1,67.9,0.4,0.1,0.2,7.2,2016
+239,Sri Lanka,South Asia,105.0,4.4,0.8,47.9,0.5,0.1,0.5,6.9,2016
+230,State of Palestine,Middle East and North Africa,95.0,4.8,0.7,43.9,0.2,0.1,0.1,6.5,2016
+146,Sweden,Western Europe,10.0,7.3,1.1,64.2,0.6,0.4,0.4,7.3,2016
+138,Switzerland,Western Europe,2.0,7.5,1.1,66.7,0.6,0.4,0.3,7.3,2016
+170,Taiwan Province of China,East Asia,33.0,6.4,0.9,61.5,0.3,0.1,0.3,7.2,2016
+222,Tajikistan,Central and Eastern Europe,86.0,5.0,0.8,41.1,0.4,0.1,0.3,6.2,2016
+266,Tanzania,Sub-Saharan Africa,132.0,3.7,0.8,27.6,0.3,0.1,0.3,6.2,2016
+168,Thailand,Southeast Asia,32.0,6.5,1.0,50.2,0.5,0.0,0.6,7.0,2016
+271,Togo,Sub-Saharan Africa,137.0,3.3,0.0,19.2,0.3,0.1,0.2,5.6,2016
+220,Tunisia,Middle East and North Africa,84.0,5.0,0.4,46.0,0.2,0.1,0.0,6.9,2016
+203,Turkiye,Middle East and North Africa,67.0,5.4,0.9,50.0,0.2,0.1,0.0,7.1,2016
+264,Uganda,Sub-Saharan Africa,129.0,3.7,0.9,15.2,0.4,0.1,0.3,5.9,2016
+245,Ukraine,Central and Eastern Europe,111.0,4.3,1.0,45.3,0.1,0.0,0.2,6.8,2016
+163,United Arab Emirates,Middle East and North Africa,27.0,6.6,0.9,56.4,0.6,0.4,0.3,7.4,2016
+158,United Kingdom,Western Europe,22.0,6.7,1.1,62.6,0.5,0.3,0.5,7.2,2016
+149,United States,North America and ANZ,13.0,7.1,1.0,60.2,0.5,0.1,0.4,7.3,2016
+164,Uruguay,Latin America and Caribbean,28.0,6.5,1.0,55.8,0.5,0.2,0.2,7.1,2016
+180,Uzbekistan,Central and Eastern Europe,44.0,6.0,1.2,38.8,0.6,0.3,0.3,6.6,2016
+175,Venezuela,Latin America and Caribbean,39.0,6.1,1.0,47.8,0.2,0.1,0.0,7.0,2016
+219,Vietnam,Southeast Asia,83.0,5.1,0.8,51.1,0.6,0.1,0.3,6.6,2016
+228,Zambia,Sub-Saharan Africa,93.0,4.8,0.6,18.2,0.4,0.1,0.2,6.4,2016
+253,Zimbabwe,Sub-Saharan Africa,119.0,4.2,0.7,12.3,0.3,0.1,0.2,5.9,2016
+400,Afghanistan,South Asia,130.0,3.8,0.6,14.0,0.1,0.1,0.3,6.0,2017
+371,Albania,Central and Eastern Europe,100.0,4.6,0.8,56.5,0.4,0.0,0.2,6.9,2017
+322,Algeria,Middle East and North Africa,49.0,5.9,1.1,47.7,0.2,0.1,0.1,7.0,2017
+297,Argentina,Latin America and Caribbean,24.0,6.6,1.4,53.7,0.5,0.1,0.1,7.1,2017
+383,Armenia,Central and Eastern Europe,112.0,4.4,1.0,49.3,0.2,0.0,0.1,6.8,2017
+283,Australia,North America and ANZ,9.0,7.3,1.5,65.2,0.6,0.3,0.5,7.3,2017
+286,Austria,Western Europe,13.0,7.0,1.5,63.0,0.6,0.2,0.3,7.3,2017
+311,Bahrain,Middle East and North Africa,38.0,6.1,1.3,50.5,0.5,0.3,0.2,7.3,2017
+372,Bangladesh,South Asia,101.0,4.6,0.7,41.2,0.5,0.1,0.2,6.4,2017
+290,Belgium,Western Europe,17.0,6.9,1.5,63.2,0.5,0.3,0.2,7.3,2017
+402,Benin,Sub-Saharan Africa,132.0,3.7,0.4,16.2,0.4,0.1,0.2,6.1,2017
+327,Bolivia,Latin America and Caribbean,54.0,5.8,1.2,36.6,0.6,0.1,0.2,6.7,2017
+354,Bosnia and Herzegovina,Central and Eastern Europe,81.0,5.2,1.1,54.5,0.2,0.0,0.3,6.9,2017
+401,Botswana,Sub-Saharan Africa,131.0,3.8,1.2,26.4,0.5,0.1,0.1,7.0,2017
+295,Brazil,Latin America and Caribbean,22.0,6.6,1.4,47.6,0.4,0.1,0.2,7.0,2017
+367,Bulgaria,Central and Eastern Europe,96.0,4.7,1.4,54.7,0.3,0.0,0.1,7.1,2017
+395,Burkina Faso,Sub-Saharan Africa,125.0,4.0,1.0,16.7,0.3,0.1,0.3,5.9,2017
+391,Cambodia,Southeast Asia,120.0,4.2,1.0,33.2,0.6,0.1,0.4,6.4,2017
+369,Cameroon,Sub-Saharan Africa,98.0,4.7,0.9,10.3,0.4,0.1,0.2,6.3,2017
+280,Canada,North America and ANZ,7.0,7.3,1.5,64.5,0.6,0.3,0.4,7.3,2017
+398,Chad,Sub-Saharan Africa,128.0,3.9,1.0,3.2,0.2,0.1,0.2,6.1,2017
+293,Chile,Latin America and Caribbean,20.0,6.7,1.3,63.3,0.4,0.1,0.3,7.1,2017
+344,China,East Asia,71.0,5.3,1.2,57.3,0.5,0.0,0.0,7.0,2017
+308,Colombia,Latin America and Caribbean,35.0,6.4,1.4,46.0,0.5,0.0,0.1,7.0,2017
+408,Comoros,Sub-Saharan Africa,122.0,4.1,0.6,40.4,0.4,0.4,0.1,7.1,2017
+386,Congo (Brazzaville),Sub-Saharan Africa,115.0,4.3,0.8,22.4,0.4,0.1,0.1,6.7,2017
+388,Congo (Kinshasa),Sub-Saharan Africa,117.0,4.3,1.2,14.8,0.2,0.1,0.2,4.5,2017
+285,Costa Rica,Latin America and Caribbean,12.0,7.1,1.4,58.7,0.6,0.1,0.2,7.0,2017
+342,Croatia,Central and Eastern Europe,69.0,5.3,1.0,54.2,0.3,0.0,0.2,7.1,2017
+332,Cyprus,Western Europe,59.0,5.6,1.1,65.3,0.4,0.0,0.3,7.2,2017
+296,Czechia,Central and Eastern Europe,23.0,6.6,1.4,58.3,0.5,0.0,0.1,7.2,2017
+275,Denmark,Western Europe,2.0,7.5,1.6,61.2,0.6,0.4,0.4,7.3,2017
+350,Dominican Republic,Latin America and Caribbean,77.0,5.2,1.4,44.4,0.6,0.1,0.2,7.0,2017
+314,Ecuador,Latin America and Caribbean,41.0,6.0,1.3,53.0,0.5,0.1,0.2,6.9,2017
+366,Egypt,Middle East and North Africa,95.0,4.7,1.0,40.2,0.3,0.1,0.1,6.9,2017
+315,El Salvador,Latin America and Caribbean,42.0,6.0,1.2,46.1,0.4,0.1,0.1,6.8,2017
+333,Estonia,Central and Eastern Europe,60.0,5.6,1.5,53.7,0.5,0.2,0.1,7.2,2017
+381,Ethiopia,Sub-Saharan Africa,110.0,4.5,0.9,27.3,0.4,0.2,0.3,5.8,2017
+278,Finland,Western Europe,5.0,7.5,1.5,62.5,0.6,0.4,0.2,7.3,2017
+304,France,Western Europe,31.0,6.4,1.4,65.3,0.5,0.2,0.1,7.3,2017
+380,Gabon,Sub-Saharan Africa,109.0,4.5,1.2,27.6,0.3,0.1,0.0,7.1,2017
+409,Gambia,Sub-Saharan Africa,92.0,4.8,0.6,45.7,0.6,0.6,0.4,7.6,2017
+387,Georgia,Central and Eastern Europe,116.0,4.3,0.6,50.2,0.3,0.3,0.1,6.9,2017
+289,Germany,Western Europe,16.0,7.0,1.5,61.7,0.6,0.3,0.3,7.3,2017
+392,Ghana,Sub-Saharan Africa,121.0,4.1,0.9,22.8,0.4,0.0,0.3,6.5,2017
+351,Greece,Western Europe,78.0,5.2,1.2,62.6,0.1,0.0,0.0,7.2,2017
+302,Guatemala,Latin America and Caribbean,28.0,6.5,1.3,41.7,0.5,0.1,0.3,6.8,2017
+405,Guinea,Sub-Saharan Africa,135.0,3.5,0.8,15.0,0.3,0.1,0.3,5.5,2017
+355,Honduras,Latin America and Caribbean,82.0,5.2,1.1,45.0,0.3,0.1,0.2,6.6,2017
+336,Hong Kong S.A.R. of China,East Asia,63.0,5.5,1.3,72.9,0.5,0.3,0.4,7.3,2017
+340,Hungary,Central and Eastern Europe,67.0,5.3,1.3,53.2,0.2,0.0,0.1,7.2,2017
+276,Iceland,Western Europe,3.0,7.5,1.6,64.4,0.6,0.2,0.5,7.3,2017
+384,India,South Asia,113.0,4.3,0.8,35.2,0.5,0.1,0.2,6.7,2017
+346,Indonesia,Southeast Asia,73.0,5.3,1.3,38.0,0.4,0.0,0.6,6.9,2017
+370,Iran,Middle East and North Africa,99.0,4.7,0.7,49.4,0.2,0.0,0.4,7.1,2017
+379,Iraq,Middle East and North Africa,108.0,4.5,1.0,38.7,0.3,0.1,0.2,7.0,2017
+288,Ireland,Western Europe,15.0,7.0,1.6,62.6,0.6,0.3,0.4,7.3,2017
+284,Israel,Middle East and North Africa,11.0,7.2,1.4,64.8,0.4,0.1,0.3,7.2,2017
+318,Italy,Western Europe,45.0,6.0,1.4,65.9,0.3,0.0,0.2,7.2,2017
+390,Ivory Coast,Sub-Saharan Africa,119.0,4.2,0.9,3.8,0.4,0.1,0.2,6.4,2017
+341,Jamaica,Latin America and Caribbean,68.0,5.3,1.4,49.5,0.5,0.1,0.2,6.8,2017
+320,Japan,East Asia,47.0,5.9,1.4,70.6,0.5,0.2,0.1,7.3,2017
+339,Jordan,Middle East and North Africa,66.0,5.3,1.2,46.7,0.4,0.1,0.2,6.9,2017
+328,Kazakhstan,Central and Eastern Europe,55.0,5.8,1.4,46.8,0.4,0.1,0.2,7.2,2017
+374,Kenya,Sub-Saharan Africa,103.0,4.6,1.1,24.0,0.5,0.1,0.4,6.3,2017
+343,Kosovo,Central and Eastern Europe,70.0,5.3,1.1,41.8,0.3,0.1,0.3,6.9,2017
+360,Kyrgyzstan,Central and Eastern Europe,87.0,5.0,1.4,42.8,0.5,0.0,0.4,6.4,2017
+410,Laos,Southeast Asia,90.0,4.9,0.7,42.2,0.7,0.4,0.2,7.6,2017
+323,Latvia,Central and Eastern Europe,50.0,5.8,1.4,49.3,0.3,0.1,0.2,7.1,2017
+352,Lebanon,Middle East and North Africa,79.0,5.2,1.1,56.8,0.3,0.0,0.3,7.0,2017
+404,Liberia,Sub-Saharan Africa,134.0,3.5,0.9,17.8,0.3,0.0,0.3,4.8,2017
+321,Lithuania,Central and Eastern Europe,48.0,5.9,1.5,48.6,0.2,0.0,0.0,7.2,2017
+291,Luxembourg,Western Europe,18.0,6.9,1.5,65.3,0.6,0.3,0.3,7.5,2017
+403,Madagascar,Sub-Saharan Africa,133.0,3.6,0.9,29.0,0.2,0.1,0.2,5.7,2017
+397,Malawi,Sub-Saharan Africa,127.0,4.0,0.5,24.4,0.5,0.1,0.3,5.5,2017
+312,Malaysia,Southeast Asia,39.0,6.1,1.3,47.8,0.4,0.1,0.4,7.2,2017
+389,Mali,Sub-Saharan Africa,118.0,4.2,1.3,13.1,0.3,0.1,0.2,6.2,2017
+300,Malta,Western Europe,27.0,6.5,1.5,63.5,0.6,0.2,0.6,7.2,2017
+385,Mauritania,Sub-Saharan Africa,114.0,4.3,1.3,22.1,0.1,0.1,0.2,6.5,2017
+331,Mauritius,Sub-Saharan Africa,58.0,5.6,1.2,49.3,0.5,0.0,0.4,7.1,2017
+298,Mexico,Latin America and Caribbean,25.0,6.6,1.2,54.9,0.4,0.1,0.1,7.1,2017
+325,Moldova,Central and Eastern Europe,51.0,5.8,1.3,45.6,0.2,0.0,0.2,6.6,2017
+362,Mongolia,East Asia,89.0,5.0,1.5,43.1,0.4,0.0,0.3,6.9,2017
+348,Montenegro,Central and Eastern Europe,75.0,5.2,1.2,51.6,0.2,0.1,0.2,7.0,2017
+349,Morocco,Middle East and North Africa,76.0,5.2,0.8,46.2,0.4,0.1,0.0,6.8,2017
+375,Mozambique,Sub-Saharan Africa,104.0,4.6,0.9,8.2,0.5,0.2,0.3,5.5,2017
+376,Myanmar,Southeast Asia,105.0,4.5,1.1,30.7,0.5,0.2,0.8,5.9,2017
+373,Namibia,Sub-Saharan Africa,102.0,4.6,1.1,26.2,0.5,0.1,0.1,6.9,2017
+361,Nepal,South Asia,88.0,5.0,1.2,39.0,0.4,0.1,0.4,6.2,2017
+279,Netherlands,Western Europe,6.0,7.4,1.4,62.7,0.6,0.3,0.5,7.3,2017
+281,New Zealand,North America and ANZ,8.0,7.3,1.5,63.1,0.6,0.4,0.5,7.2,2017
+313,Nicaragua,Latin America and Caribbean,40.0,6.1,1.3,50.5,0.4,0.1,0.3,6.6,2017
+396,Niger,Sub-Saharan Africa,126.0,4.0,1.0,20.8,0.4,0.1,0.2,5.1,2017
+358,Nigeria,Sub-Saharan Africa,84.0,5.1,1.2,4.4,0.4,0.0,0.2,6.7,2017
+356,North Macedonia,Central and Eastern Europe,83.0,5.2,1.2,49.8,0.3,0.1,0.3,7.0,2017
+274,Norway,Western Europe,1.0,7.5,1.5,61.6,0.6,0.3,0.4,7.4,2017
+345,Pakistan,South Asia,72.0,5.3,0.7,31.1,0.2,0.1,0.3,6.6,2017
+303,Panama,Latin America and Caribbean,30.0,6.5,1.4,54.6,0.6,0.1,0.2,7.1,2017
+335,Paraguay,Latin America and Caribbean,62.0,5.5,1.5,44.8,0.5,0.1,0.2,6.8,2017
+330,Peru,Latin America and Caribbean,57.0,5.7,1.2,48.7,0.5,0.0,0.1,6.9,2017
+337,Philippines,Southeast Asia,64.0,5.4,1.3,36.2,0.6,0.1,0.2,6.8,2017
+316,Poland,Central and Eastern Europe,43.0,6.0,1.4,54.1,0.5,0.1,0.2,7.2,2017
+353,Portugal,Western Europe,80.0,5.2,1.4,61.5,0.5,0.0,0.1,7.2,2017
+326,Romania,Central and Eastern Europe,53.0,5.8,1.2,52.9,0.5,0.0,0.1,7.1,2017
+319,Russia,Central and Eastern Europe,46.0,6.0,1.5,42.3,0.4,0.0,0.1,7.2,2017
+309,Saudi Arabia,Middle East and North Africa,36.0,6.3,1.3,45.6,0.4,0.3,0.1,7.3,2017
+377,Senegal,Sub-Saharan Africa,106.0,4.5,1.2,31.6,0.4,0.1,0.2,6.2,2017
+338,Serbia,Central and Eastern Europe,65.0,5.4,1.3,50.3,0.2,0.0,0.2,7.0,2017
+368,Sierra Leone,Sub-Saharan Africa,97.0,4.7,1.0,0.4,0.3,0.1,0.3,5.9,2017
+299,Singapore,Southeast Asia,26.0,6.6,1.4,73.4,0.5,0.5,0.3,7.4,2017
+310,Slovakia,Central and Eastern Europe,37.0,6.1,1.5,55.1,0.3,0.0,0.1,7.2,2017
+329,Slovenia,Central and Eastern Europe,56.0,5.8,1.5,61.1,0.6,0.0,0.2,7.2,2017
+363,South Africa,Sub-Saharan Africa,91.0,4.8,1.4,14.5,0.5,0.1,0.1,7.0,2017
+324,South Korea,East Asia,51.0,5.8,1.1,69.6,0.3,0.1,0.2,7.2,2017
+307,Spain,Western Europe,34.0,6.4,1.5,68.7,0.4,0.1,0.2,7.2,2017
+382,Sri Lanka,South Asia,111.0,4.4,1.3,48.3,0.6,0.1,0.5,6.9,2017
+365,State of Palestine,Middle East and North Africa,94.0,4.8,1.2,43.7,0.3,0.1,0.1,6.6,2017
+282,Sweden,Western Europe,9.0,7.3,1.5,64.2,0.6,0.4,0.4,7.3,2017
+277,Switzerland,Western Europe,4.0,7.5,1.5,66.3,0.6,0.4,0.3,7.4,2017
+306,Taiwan Province of China,East Asia,33.0,6.4,1.4,61.4,0.4,0.1,0.3,7.3,2017
+359,Tajikistan,Central and Eastern Europe,86.0,5.0,1.3,40.9,0.5,0.1,0.2,6.3,2017
+407,Tanzania,Sub-Saharan Africa,137.0,3.3,1.0,28.2,0.4,0.1,0.4,6.2,2017
+305,Thailand,Southeast Asia,32.0,6.4,1.4,50.0,0.6,0.0,0.6,7.0,2017
+406,Togo,Sub-Saharan Africa,136.0,3.5,0.4,19.1,0.4,0.1,0.2,5.7,2017
+364,Tunisia,Middle East and North Africa,93.0,4.8,0.9,47.4,0.3,0.1,0.0,6.9,2017
+334,Turkiye,Middle East and North Africa,61.0,5.5,1.3,49.3,0.3,0.1,0.0,7.1,2017
+394,Uganda,Sub-Saharan Africa,124.0,4.1,1.1,16.8,0.4,0.1,0.3,5.9,2017
+393,Ukraine,Central and Eastern Europe,123.0,4.1,1.4,44.5,0.1,0.0,0.3,6.8,2017
+294,United Arab Emirates,Middle East and North Africa,21.0,6.6,1.3,56.2,0.6,0.3,0.4,7.4,2017
+292,United Kingdom,Western Europe,19.0,6.7,1.5,62.2,0.5,0.3,0.5,7.3,2017
+287,United States,North America and ANZ,14.0,7.0,1.4,59.8,0.5,0.1,0.4,7.3,2017
+301,Uruguay,Latin America and Caribbean,28.0,6.5,1.4,55.6,0.6,0.2,0.2,7.1,2017
+317,Uzbekistan,Central and Eastern Europe,44.0,6.0,1.5,38.5,0.7,0.2,0.4,6.7,2017
+347,Venezuela,Latin America and Caribbean,74.0,5.2,1.4,47.7,0.2,0.1,0.1,7.0,2017
+357,Vietnam,Southeast Asia,84.0,5.1,1.3,50.4,0.6,0.1,0.2,6.7,2017
+378,Zambia,Sub-Saharan Africa,107.0,4.5,1.0,19.9,0.5,0.1,0.2,6.5,2017
+399,Zimbabwe,Sub-Saharan Africa,129.0,3.9,1.1,15.2,0.3,0.1,0.2,5.9,2017
+541,Afghanistan,South Asia,133.0,3.6,0.5,19.7,0.1,0.0,0.2,5.8,2018
+511,Albania,Central and Eastern Europe,102.0,4.6,0.8,61.1,0.4,0.0,0.1,6.8,2018
+486,Algeria,Middle East and North Africa,76.0,5.3,1.2,53.1,0.1,0.1,0.1,6.9,2018
+439,Argentina,Latin America and Caribbean,29.0,6.4,1.5,57.5,0.6,0.1,0.1,7.0,2018
+528,Armenia,Central and Eastern Europe,119.0,4.3,1.0,51.5,0.3,0.0,0.1,6.7,2018
+420,Australia,North America and ANZ,10.0,7.3,1.6,70.3,0.6,0.3,0.4,7.2,2018
+422,Austria,Western Europe,12.0,7.1,1.5,68.9,0.6,0.2,0.2,7.2,2018
+451,Bahrain,Middle East and North Africa,41.0,6.1,1.4,53.9,0.6,0.1,0.2,7.2,2018
+514,Bangladesh,South Asia,105.0,4.5,0.8,44.7,0.6,0.1,0.2,6.3,2018
+426,Belgium,Western Europe,16.0,6.9,1.5,69.1,0.6,0.2,0.2,7.2,2018
+535,Benin,Sub-Saharan Africa,126.0,4.1,0.4,18.5,0.4,0.1,0.2,5.9,2018
+467,Bolivia,Latin America and Caribbean,57.0,5.8,1.2,39.3,0.6,0.1,0.1,6.6,2018
+494,Bosnia and Herzegovina,Central and Eastern Europe,84.0,5.1,1.1,58.6,0.3,0.0,0.2,6.8,2018
+542,Botswana,Sub-Saharan Africa,134.0,3.6,1.2,32.2,0.6,0.1,0.0,6.9,2018
+438,Brazil,Latin America and Caribbean,28.0,6.4,1.5,52.2,0.5,0.1,0.1,6.9,2018
+499,Bulgaria,Central and Eastern Europe,89.0,4.9,1.5,55.0,0.4,0.0,0.1,7.0,2018
+520,Burkina Faso,Sub-Saharan Africa,111.0,4.4,1.1,19.6,0.3,0.1,0.2,5.8,2018
+519,Cambodia,Southeast Asia,110.0,4.4,1.1,35.3,0.7,0.1,0.3,6.3,2018
+498,Cameroon,Sub-Saharan Africa,88.0,5.0,0.9,14.1,0.5,0.0,0.2,6.3,2018
+417,Canada,North America and ANZ,7.0,7.3,1.5,69.2,0.7,0.3,0.3,7.2,2018
+530,Chad,Sub-Saharan Africa,121.0,4.3,0.9,4.1,0.2,0.1,0.2,5.9,2018
+435,Chile,Latin America and Caribbean,25.0,6.5,1.3,62.4,0.4,0.1,0.2,7.0,2018
+488,China,East Asia,78.0,5.2,1.1,61.7,0.6,0.1,0.0,6.9,2018
+446,Colombia,Latin America and Caribbean,36.0,6.3,1.4,49.1,0.5,0.0,0.1,6.9,2018
+546,Comoros,Sub-Saharan Africa,127.0,4.1,0.6,40.4,0.4,0.4,0.1,7.1,2018
+513,Congo (Brazzaville),Sub-Saharan Africa,104.0,4.6,0.8,26.5,0.5,0.1,0.1,6.5,2018
+531,Congo (Kinshasa),Sub-Saharan Africa,122.0,4.2,1.1,15.8,0.3,0.1,0.2,4.2,2018
+423,Costa Rica,Latin America and Caribbean,13.0,7.1,1.5,63.1,0.6,0.1,0.1,6.9,2018
+484,Croatia,Central and Eastern Europe,74.0,5.3,1.2,57.0,0.4,0.0,0.1,7.0,2018
+466,Cyprus,Western Europe,56.0,5.8,1.2,70.2,0.4,0.0,0.2,7.1,2018
+431,Czechia,Central and Eastern Europe,21.0,6.7,1.5,66.0,0.5,0.0,0.1,7.1,2018
+413,Denmark,Western Europe,3.0,7.6,1.6,67.1,0.7,0.4,0.3,7.2,2018
+485,Dominican Republic,Latin America and Caribbean,75.0,5.3,1.4,47.4,0.6,0.1,0.1,6.9,2018
+455,Ecuador,Latin America and Caribbean,45.0,6.0,1.3,56.9,0.6,0.1,0.1,6.8,2018
+521,Egypt,Middle East and North Africa,112.0,4.4,1.0,42.7,0.3,0.1,0.1,6.8,2018
+448,El Salvador,Latin America and Caribbean,38.0,6.2,1.2,49.4,0.5,0.1,0.1,6.7,2018
+468,Estonia,Central and Eastern Europe,58.0,5.7,1.5,57.0,0.6,0.2,0.1,7.1,2018
+526,Ethiopia,Sub-Saharan Africa,117.0,4.4,1.0,30.2,0.5,0.1,0.2,5.7,2018
+411,Finland,Western Europe,1.0,7.6,1.6,67.5,0.7,0.4,0.2,7.2,2018
+433,France,Western Europe,23.0,6.5,1.5,70.2,0.5,0.2,0.1,7.2,2018
+502,Gabon,Sub-Saharan Africa,93.0,4.8,1.2,31.2,0.4,0.1,0.0,6.9,2018
+547,Gambia,Sub-Saharan Africa,91.0,4.8,0.6,45.7,0.6,0.6,0.4,7.6,2018
+527,Georgia,Central and Eastern Europe,118.0,4.3,0.6,49.7,0.4,0.2,0.0,6.7,2018
+425,Germany,Western Europe,15.0,7.0,1.5,66.5,0.6,0.3,0.3,7.2,2018
+507,Ghana,Sub-Saharan Africa,98.0,4.7,0.9,26.0,0.5,0.0,0.2,6.4,2018
+481,Greece,Western Europe,71.0,5.4,1.2,67.9,0.1,0.0,0.0,7.1,2018
+440,Guatemala,Latin America and Caribbean,30.0,6.4,1.3,47.0,0.6,0.1,0.2,6.7,2018
+538,Guinea,Sub-Saharan Africa,130.0,4.0,0.8,16.3,0.4,0.1,0.2,5.8,2018
+475,Honduras,Latin America and Caribbean,65.0,5.5,1.2,48.1,0.5,0.1,0.2,6.4,2018
+478,Hong Kong S.A.R. of China,East Asia,68.0,5.4,1.3,79.6,0.5,0.3,0.2,7.2,2018
+473,Hungary,Central and Eastern Europe,63.0,5.6,1.4,56.6,0.3,0.0,0.1,7.1,2018
+414,Iceland,Western Europe,4.0,7.5,1.6,70.6,0.7,0.1,0.4,7.2,2018
+532,India,South Asia,123.0,4.2,0.7,37.5,0.5,0.1,0.2,6.6,2018
+497,Indonesia,Southeast Asia,87.0,5.1,1.2,40.3,0.5,0.0,0.5,6.8,2018
+505,Iran,Middle East and North Africa,96.0,4.7,0.8,53.4,0.5,0.1,0.3,7.0,2018
+516,Iraq,Middle East and North Africa,107.0,4.5,1.0,41.4,0.3,0.1,0.1,6.9,2018
+424,Ireland,Western Europe,14.0,7.0,1.6,67.7,0.6,0.3,0.3,7.3,2018
+429,Israel,Middle East and North Africa,19.0,6.8,1.6,68.2,0.5,0.3,0.4,7.2,2018
+454,Italy,Western Europe,44.0,6.0,1.5,73.1,0.3,0.0,0.1,7.1,2018
+506,Ivory Coast,Sub-Saharan Africa,97.0,4.7,0.9,6.2,0.5,0.1,0.1,6.3,2018
+462,Jamaica,Latin America and Caribbean,52.0,5.9,1.5,53.6,0.6,0.0,0.1,6.7,2018
+460,Japan,East Asia,50.0,5.9,1.5,76.4,0.6,0.2,0.1,7.2,2018
+491,Jordan,Middle East and North Africa,81.0,5.2,1.3,49.8,0.5,0.1,0.1,6.7,2018
+465,Kazakhstan,Central and Eastern Europe,55.0,5.8,1.5,48.8,0.5,0.1,0.1,7.0,2018
+523,Kenya,Sub-Saharan Africa,114.0,4.4,1.0,35.1,0.5,0.1,0.4,6.2,2018
+471,Kosovo,Central and Eastern Europe,61.0,5.7,1.2,44.7,0.4,0.0,0.3,6.8,2018
+493,Kyrgyzstan,Central and Eastern Europe,83.0,5.1,1.4,45.9,0.5,0.0,0.3,6.3,2018
+509,Laos,Southeast Asia,100.0,4.6,1.0,34.1,0.6,0.2,0.2,6.6,2018
+459,Latvia,Central and Eastern Europe,49.0,5.9,1.5,51.9,0.4,0.1,0.1,7.0,2018
+482,Lebanon,Middle East and North Africa,71.0,5.4,1.2,60.7,0.5,0.1,0.2,6.9,2018
+544,Liberia,Sub-Saharan Africa,136.0,3.5,0.9,20.6,0.4,0.0,0.2,4.3,2018
+456,Lithuania,Central and Eastern Europe,46.0,6.0,1.5,55.3,0.4,0.0,0.0,7.1,2018
+427,Luxembourg,Western Europe,17.0,6.9,1.5,69.2,0.6,0.3,0.2,7.4,2018
+539,Madagascar,Sub-Saharan Africa,131.0,3.8,0.9,31.1,0.2,0.0,0.2,5.6,2018
+543,Malawi,Sub-Saharan Africa,135.0,3.6,0.5,23.6,0.5,0.1,0.2,5.2,2018
+444,Malaysia,Southeast Asia,34.0,6.3,1.3,51.7,0.4,0.1,0.3,7.1,2018
+517,Mali,Sub-Saharan Africa,108.0,4.4,1.2,11.7,0.4,0.1,0.1,5.9,2018
+432,Malta,Western Europe,22.0,6.6,1.5,68.3,0.6,0.1,0.4,7.1,2018
+525,Mauritania,Sub-Saharan Africa,116.0,4.4,1.2,22.6,0.1,0.1,0.1,6.3,2018
+461,Mauritius,Sub-Saharan Africa,51.0,5.9,1.4,52.9,0.6,0.0,0.2,7.0,2018
+434,Mexico,Latin America and Caribbean,24.0,6.5,1.3,58.8,0.5,0.1,0.1,6.9,2018
+472,Moldova,Central and Eastern Europe,62.0,5.6,1.3,47.9,0.2,0.0,0.2,6.5,2018
+495,Mongolia,East Asia,85.0,5.1,1.5,44.4,0.4,0.0,0.3,6.8,2018
+483,Montenegro,Central and Eastern Europe,73.0,5.3,1.3,56.3,0.3,0.1,0.1,6.9,2018
+487,Morocco,Middle East and North Africa,77.0,5.3,0.8,51.7,0.5,0.1,0.0,6.7,2018
+522,Mozambique,Sub-Saharan Africa,113.0,4.4,0.9,13.4,0.5,0.2,0.2,5.3,2018
+529,Myanmar,Southeast Asia,120.0,4.3,1.2,33.2,0.6,0.2,0.6,6.5,2018
+518,Namibia,Sub-Saharan Africa,109.0,4.4,1.3,28.2,0.5,0.1,0.1,6.8,2018
+500,Nepal,South Asia,90.0,4.9,1.2,41.7,0.5,0.1,0.3,6.1,2018
+416,Netherlands,Western Europe,6.0,7.4,1.5,67.9,0.6,0.3,0.3,7.2,2018
+418,New Zealand,North America and ANZ,8.0,7.3,1.6,67.7,0.7,0.4,0.4,7.1,2018
+449,Nicaragua,Latin America and Caribbean,39.0,6.1,1.3,54.1,0.5,0.1,0.2,6.5,2018
+533,Niger,Sub-Saharan Africa,124.0,4.2,0.9,17.1,0.4,0.1,0.2,4.9,2018
+492,Nigeria,Sub-Saharan Africa,82.0,5.2,1.2,3.7,0.5,0.0,0.2,6.5,2018
+490,North Macedonia,Central and Eastern Europe,80.0,5.2,1.2,53.4,0.4,0.1,0.2,6.9,2018
+412,Norway,Western Europe,2.0,7.6,1.6,66.5,0.7,0.3,0.3,7.3,2018
+477,Pakistan,South Asia,67.0,5.5,0.8,32.8,0.3,0.1,0.2,6.5,2018
+437,Panama,Latin America and Caribbean,27.0,6.4,1.4,58.7,0.6,0.1,0.1,7.0,2018
+469,Paraguay,Latin America and Caribbean,59.0,5.7,1.5,47.5,0.5,0.1,0.2,6.7,2018
+470,Peru,Latin America and Caribbean,60.0,5.7,1.2,52.1,0.5,0.0,0.1,6.8,2018
+474,Philippines,Southeast Asia,64.0,5.5,1.3,39.6,0.6,0.1,0.1,6.7,2018
+450,Poland,Central and Eastern Europe,40.0,6.1,1.4,60.4,0.5,0.1,0.1,7.1,2018
+479,Portugal,Western Europe,69.0,5.4,1.4,68.3,0.6,0.0,0.1,7.1,2018
+458,Romania,Central and Eastern Europe,48.0,5.9,1.2,56.1,0.5,0.0,0.1,7.0,2018
+464,Russia,Central and Eastern Europe,54.0,5.8,1.5,46.3,0.4,0.0,0.1,7.0,2018
+442,Saudi Arabia,Middle East and North Africa,32.0,6.4,1.3,48.9,0.5,0.1,0.1,7.2,2018
+508,Senegal,Sub-Saharan Africa,99.0,4.6,1.1,33.5,0.4,0.1,0.1,6.1,2018
+480,Serbia,Central and Eastern Europe,70.0,5.4,1.4,52.9,0.3,0.0,0.1,6.9,2018
+512,Sierra Leone,Sub-Saharan Africa,103.0,4.6,0.8,0.0,0.4,0.1,0.2,5.5,2018
+443,Singapore,Southeast Asia,33.0,6.3,1.5,77.9,0.6,0.5,0.3,7.3,2018
+447,Slovakia,Central and Eastern Europe,37.0,6.2,1.5,60.0,0.4,0.0,0.1,7.1,2018
+457,Slovenia,Central and Eastern Europe,47.0,5.9,1.5,66.2,0.6,0.1,0.2,7.1,2018
+504,South Africa,Sub-Saharan Africa,95.0,4.7,1.4,25.5,0.5,0.1,0.1,6.8,2018
+463,South Korea,East Asia,53.0,5.9,1.2,73.8,0.2,0.1,0.2,7.1,2018
+445,Spain,Western Europe,35.0,6.3,1.5,74.6,0.4,0.1,0.1,7.1,2018
+515,Sri Lanka,South Asia,106.0,4.5,1.3,51.9,0.6,0.0,0.3,6.8,2018
+503,State of Palestine,Middle East and North Africa,94.0,4.7,1.2,46.5,0.3,0.1,0.1,6.5,2018
+419,Sweden,Western Europe,9.0,7.3,1.5,70.6,0.7,0.4,0.3,7.2,2018
+415,Switzerland,Western Europe,5.0,7.5,1.5,71.6,0.7,0.4,0.3,7.3,2018
+436,Taiwan Province of China,East Asia,26.0,6.4,1.4,66.2,0.4,0.1,0.2,7.2,2018
+489,Tajikistan,Central and Eastern Europe,79.0,5.2,1.2,46.2,0.3,0.0,0.2,6.2,2018
+545,Tanzania,Sub-Saharan Africa,137.0,3.3,1.0,29.4,0.5,0.1,0.3,6.1,2018
+453,Thailand,Southeast Asia,43.0,6.1,1.4,54.6,0.6,0.0,0.4,6.9,2018
+537,Togo,Sub-Saharan Africa,129.0,4.0,0.5,19.6,0.4,0.1,0.2,5.6,2018
+510,Tunisia,Middle East and North Africa,101.0,4.6,0.9,53.3,0.3,0.1,0.0,6.8,2018
+476,Turkiye,Middle East and North Africa,66.0,5.5,1.4,53.0,0.3,0.1,0.1,7.0,2018
+534,Uganda,Sub-Saharan Africa,125.0,4.2,1.1,18.3,0.4,0.1,0.3,5.8,2018
+536,Ukraine,Central and Eastern Europe,128.0,4.1,1.4,47.1,0.2,0.0,0.2,6.7,2018
+430,United Arab Emirates,Middle East and North Africa,20.0,6.8,0.8,51.8,0.3,0.4,0.2,7.6,2018
+421,United Kingdom,Western Europe,11.0,7.2,1.4,68.6,0.5,0.1,0.3,7.1,2018
+428,United States,North America and ANZ,18.0,6.9,1.5,63.3,0.5,0.1,0.3,7.2,2018
+441,Uruguay,Latin America and Caribbean,31.0,6.4,1.5,59.6,0.6,0.2,0.1,7.0,2018
+452,Uzbekistan,Central and Eastern Europe,42.0,6.1,1.6,46.8,0.7,0.3,0.3,6.6,2018
+501,Venezuela,Latin America and Caribbean,92.0,4.8,1.5,50.8,0.1,0.1,0.1,6.9,2018
+496,Vietnam,Southeast Asia,86.0,5.1,1.4,54.3,0.6,0.1,0.2,6.6,2018
+524,Zambia,Sub-Saharan Africa,115.0,4.4,1.0,22.8,0.5,0.1,0.2,6.3,2018
+540,Zimbabwe,Sub-Saharan Africa,132.0,3.7,1.1,19.2,0.4,0.1,0.1,5.9,2018
+678,Afghanistan,South Asia,133.0,3.6,0.5,19.7,0.1,0.0,0.2,5.8,2019
+648,Albania,Central and Eastern Europe,102.0,4.6,0.8,61.1,0.4,0.0,0.1,6.8,2019
+623,Algeria,Middle East and North Africa,76.0,5.3,1.2,53.1,0.1,0.1,0.1,6.9,2019
+576,Argentina,Latin America and Caribbean,29.0,6.4,1.5,57.5,0.6,0.1,0.1,7.0,2019
+665,Armenia,Central and Eastern Europe,119.0,4.3,1.0,51.5,0.3,0.0,0.1,6.7,2019
+557,Australia,North America and ANZ,10.0,7.3,1.6,70.3,0.6,0.3,0.4,7.2,2019
+559,Austria,Western Europe,12.0,7.1,1.5,68.9,0.6,0.2,0.2,7.2,2019
+588,Bahrain,Middle East and North Africa,41.0,6.1,1.4,53.9,0.6,0.1,0.2,7.2,2019
+651,Bangladesh,South Asia,105.0,4.5,0.8,44.7,0.6,0.1,0.2,6.3,2019
+563,Belgium,Western Europe,16.0,6.9,1.5,69.1,0.6,0.2,0.2,7.2,2019
+672,Benin,Sub-Saharan Africa,126.0,4.1,0.4,18.5,0.4,0.1,0.2,5.9,2019
+604,Bolivia,Latin America and Caribbean,57.0,5.8,1.2,39.3,0.6,0.1,0.1,6.6,2019
+631,Bosnia and Herzegovina,Central and Eastern Europe,84.0,5.1,1.1,58.6,0.3,0.0,0.2,6.8,2019
+679,Botswana,Sub-Saharan Africa,134.0,3.6,1.2,32.2,0.6,0.1,0.0,6.9,2019
+575,Brazil,Latin America and Caribbean,28.0,6.4,1.5,52.2,0.5,0.1,0.1,6.9,2019
+636,Bulgaria,Central and Eastern Europe,89.0,4.9,1.5,55.0,0.4,0.0,0.1,7.0,2019
+657,Burkina Faso,Sub-Saharan Africa,111.0,4.4,1.1,19.6,0.3,0.1,0.2,5.8,2019
+656,Cambodia,Southeast Asia,110.0,4.4,1.1,35.3,0.7,0.1,0.3,6.3,2019
+635,Cameroon,Sub-Saharan Africa,88.0,5.0,0.9,14.1,0.5,0.0,0.2,6.3,2019
+554,Canada,North America and ANZ,7.0,7.3,1.5,69.2,0.7,0.3,0.3,7.2,2019
+667,Chad,Sub-Saharan Africa,121.0,4.3,0.9,4.1,0.2,0.1,0.2,5.9,2019
+572,Chile,Latin America and Caribbean,25.0,6.5,1.3,62.4,0.4,0.1,0.2,7.0,2019
+625,China,East Asia,78.0,5.2,1.1,61.7,0.6,0.1,0.0,6.9,2019
+583,Colombia,Latin America and Caribbean,36.0,6.3,1.4,49.1,0.5,0.0,0.1,6.9,2019
+683,Comoros,Sub-Saharan Africa,127.0,4.1,0.6,40.4,0.4,0.4,0.1,7.1,2019
+650,Congo (Brazzaville),Sub-Saharan Africa,104.0,4.6,0.8,26.5,0.5,0.1,0.1,6.5,2019
+668,Congo (Kinshasa),Sub-Saharan Africa,122.0,4.2,1.1,15.8,0.3,0.1,0.2,4.2,2019
+560,Costa Rica,Latin America and Caribbean,13.0,7.1,1.5,63.1,0.6,0.1,0.1,6.9,2019
+621,Croatia,Central and Eastern Europe,74.0,5.3,1.2,57.0,0.4,0.0,0.1,7.0,2019
+603,Cyprus,Western Europe,56.0,5.8,1.2,70.2,0.4,0.0,0.2,7.1,2019
+568,Czechia,Central and Eastern Europe,21.0,6.7,1.5,66.0,0.5,0.0,0.1,7.1,2019
+550,Denmark,Western Europe,3.0,7.6,1.6,67.1,0.7,0.4,0.3,7.2,2019
+622,Dominican Republic,Latin America and Caribbean,75.0,5.3,1.4,47.4,0.6,0.1,0.1,6.9,2019
+592,Ecuador,Latin America and Caribbean,45.0,6.0,1.3,56.9,0.6,0.1,0.1,6.8,2019
+658,Egypt,Middle East and North Africa,112.0,4.4,1.0,42.7,0.3,0.1,0.1,6.8,2019
+585,El Salvador,Latin America and Caribbean,38.0,6.2,1.2,49.4,0.5,0.1,0.1,6.7,2019
+605,Estonia,Central and Eastern Europe,58.0,5.7,1.5,57.0,0.6,0.2,0.1,7.1,2019
+663,Ethiopia,Sub-Saharan Africa,117.0,4.4,1.0,30.2,0.5,0.1,0.2,5.7,2019
+548,Finland,Western Europe,1.0,7.6,1.6,67.5,0.7,0.4,0.2,7.2,2019
+570,France,Western Europe,23.0,6.5,1.5,70.2,0.5,0.2,0.1,7.2,2019
+639,Gabon,Sub-Saharan Africa,93.0,4.8,1.2,31.2,0.4,0.1,0.0,6.9,2019
+684,Gambia,Sub-Saharan Africa,91.0,4.8,0.6,45.7,0.6,0.6,0.4,7.6,2019
+664,Georgia,Central and Eastern Europe,118.0,4.3,0.6,49.7,0.4,0.2,0.0,6.7,2019
+562,Germany,Western Europe,15.0,7.0,1.5,66.5,0.6,0.3,0.3,7.2,2019
+644,Ghana,Sub-Saharan Africa,98.0,4.7,0.9,26.0,0.5,0.0,0.2,6.4,2019
+618,Greece,Western Europe,71.0,5.4,1.2,67.9,0.1,0.0,0.0,7.1,2019
+577,Guatemala,Latin America and Caribbean,30.0,6.4,1.3,47.0,0.6,0.1,0.2,6.7,2019
+675,Guinea,Sub-Saharan Africa,130.0,4.0,0.8,16.3,0.4,0.1,0.2,5.8,2019
+612,Honduras,Latin America and Caribbean,65.0,5.5,1.2,48.1,0.5,0.1,0.2,6.4,2019
+615,Hong Kong S.A.R. of China,East Asia,68.0,5.4,1.3,79.6,0.5,0.3,0.2,7.2,2019
+610,Hungary,Central and Eastern Europe,63.0,5.6,1.4,56.6,0.3,0.0,0.1,7.1,2019
+551,Iceland,Western Europe,4.0,7.5,1.6,70.6,0.7,0.1,0.4,7.2,2019
+669,India,South Asia,123.0,4.2,0.7,37.5,0.5,0.1,0.2,6.6,2019
+634,Indonesia,Southeast Asia,87.0,5.1,1.2,40.3,0.5,0.0,0.5,6.8,2019
+642,Iran,Middle East and North Africa,96.0,4.7,0.8,53.4,0.5,0.1,0.3,7.0,2019
+653,Iraq,Middle East and North Africa,107.0,4.5,1.0,41.4,0.3,0.1,0.1,6.9,2019
+561,Ireland,Western Europe,14.0,7.0,1.6,67.7,0.6,0.3,0.3,7.3,2019
+566,Israel,Middle East and North Africa,19.0,6.8,1.6,68.2,0.5,0.3,0.4,7.2,2019
+591,Italy,Western Europe,44.0,6.0,1.5,73.1,0.3,0.0,0.1,7.1,2019
+643,Ivory Coast,Sub-Saharan Africa,97.0,4.7,0.9,6.2,0.5,0.1,0.1,6.3,2019
+599,Jamaica,Latin America and Caribbean,52.0,5.9,1.5,53.6,0.6,0.0,0.1,6.7,2019
+597,Japan,East Asia,50.0,5.9,1.5,76.4,0.6,0.2,0.1,7.2,2019
+628,Jordan,Middle East and North Africa,81.0,5.2,1.3,49.8,0.5,0.1,0.1,6.7,2019
+602,Kazakhstan,Central and Eastern Europe,55.0,5.8,1.5,48.8,0.5,0.1,0.1,7.0,2019
+660,Kenya,Sub-Saharan Africa,114.0,4.4,1.0,35.1,0.5,0.1,0.4,6.2,2019
+608,Kosovo,Central and Eastern Europe,61.0,5.7,1.2,44.7,0.4,0.0,0.3,6.8,2019
+630,Kyrgyzstan,Central and Eastern Europe,83.0,5.1,1.4,45.9,0.5,0.0,0.3,6.3,2019
+646,Laos,Southeast Asia,100.0,4.6,1.0,34.1,0.6,0.2,0.2,6.6,2019
+596,Latvia,Central and Eastern Europe,49.0,5.9,1.5,51.9,0.4,0.1,0.1,7.0,2019
+619,Lebanon,Middle East and North Africa,71.0,5.4,1.2,60.7,0.5,0.1,0.2,6.9,2019
+681,Liberia,Sub-Saharan Africa,136.0,3.5,0.9,20.6,0.4,0.0,0.2,4.3,2019
+593,Lithuania,Central and Eastern Europe,46.0,6.0,1.5,55.3,0.4,0.0,0.0,7.1,2019
+564,Luxembourg,Western Europe,17.0,6.9,1.5,69.2,0.6,0.3,0.2,7.4,2019
+676,Madagascar,Sub-Saharan Africa,131.0,3.8,0.9,31.1,0.2,0.0,0.2,5.6,2019
+680,Malawi,Sub-Saharan Africa,135.0,3.6,0.5,23.6,0.5,0.1,0.2,5.2,2019
+581,Malaysia,Southeast Asia,34.0,6.3,1.3,51.7,0.4,0.1,0.3,7.1,2019
+654,Mali,Sub-Saharan Africa,108.0,4.4,1.2,11.7,0.4,0.1,0.1,5.9,2019
+569,Malta,Western Europe,22.0,6.6,1.5,68.3,0.6,0.1,0.4,7.1,2019
+662,Mauritania,Sub-Saharan Africa,116.0,4.4,1.2,22.6,0.1,0.1,0.1,6.3,2019
+598,Mauritius,Sub-Saharan Africa,51.0,5.9,1.4,52.9,0.6,0.0,0.2,7.0,2019
+571,Mexico,Latin America and Caribbean,24.0,6.5,1.3,58.8,0.5,0.1,0.1,6.9,2019
+609,Moldova,Central and Eastern Europe,62.0,5.6,1.3,47.9,0.2,0.0,0.2,6.5,2019
+632,Mongolia,East Asia,85.0,5.1,1.5,44.4,0.4,0.0,0.3,6.8,2019
+620,Montenegro,Central and Eastern Europe,73.0,5.3,1.3,56.3,0.3,0.1,0.1,6.9,2019
+624,Morocco,Middle East and North Africa,77.0,5.3,0.8,51.7,0.5,0.1,0.0,6.7,2019
+659,Mozambique,Sub-Saharan Africa,113.0,4.4,0.9,13.4,0.5,0.2,0.2,5.3,2019
+666,Myanmar,Southeast Asia,120.0,4.3,1.2,33.2,0.6,0.2,0.6,6.5,2019
+655,Namibia,Sub-Saharan Africa,109.0,4.4,1.3,28.2,0.5,0.1,0.1,6.8,2019
+637,Nepal,South Asia,90.0,4.9,1.2,41.7,0.5,0.1,0.3,6.1,2019
+553,Netherlands,Western Europe,6.0,7.4,1.5,67.9,0.6,0.3,0.3,7.2,2019
+555,New Zealand,North America and ANZ,8.0,7.3,1.6,67.7,0.7,0.4,0.4,7.1,2019
+586,Nicaragua,Latin America and Caribbean,39.0,6.1,1.3,54.1,0.5,0.1,0.2,6.5,2019
+670,Niger,Sub-Saharan Africa,124.0,4.2,0.9,17.1,0.4,0.1,0.2,4.9,2019
+629,Nigeria,Sub-Saharan Africa,82.0,5.2,1.2,3.7,0.5,0.0,0.2,6.5,2019
+627,North Macedonia,Central and Eastern Europe,80.0,5.2,1.2,53.4,0.4,0.1,0.2,6.9,2019
+549,Norway,Western Europe,2.0,7.6,1.6,66.5,0.7,0.3,0.3,7.3,2019
+614,Pakistan,South Asia,67.0,5.5,0.8,32.8,0.3,0.1,0.2,6.5,2019
+574,Panama,Latin America and Caribbean,27.0,6.4,1.4,58.7,0.6,0.1,0.1,7.0,2019
+606,Paraguay,Latin America and Caribbean,59.0,5.7,1.5,47.5,0.5,0.1,0.2,6.7,2019
+607,Peru,Latin America and Caribbean,60.0,5.7,1.2,52.1,0.5,0.0,0.1,6.8,2019
+611,Philippines,Southeast Asia,64.0,5.5,1.3,39.6,0.6,0.1,0.1,6.7,2019
+587,Poland,Central and Eastern Europe,40.0,6.1,1.4,60.4,0.5,0.1,0.1,7.1,2019
+616,Portugal,Western Europe,69.0,5.4,1.4,68.3,0.6,0.0,0.1,7.1,2019
+595,Romania,Central and Eastern Europe,48.0,5.9,1.2,56.1,0.5,0.0,0.1,7.0,2019
+601,Russia,Central and Eastern Europe,54.0,5.8,1.5,46.3,0.4,0.0,0.1,7.0,2019
+579,Saudi Arabia,Middle East and North Africa,32.0,6.4,1.3,48.9,0.5,0.1,0.1,7.2,2019
+645,Senegal,Sub-Saharan Africa,99.0,4.6,1.1,33.5,0.4,0.1,0.1,6.1,2019
+617,Serbia,Central and Eastern Europe,70.0,5.4,1.4,52.9,0.3,0.0,0.1,6.9,2019
+649,Sierra Leone,Sub-Saharan Africa,103.0,4.6,0.8,0.0,0.4,0.1,0.2,5.5,2019
+580,Singapore,Southeast Asia,33.0,6.3,1.5,77.9,0.6,0.5,0.3,7.3,2019
+584,Slovakia,Central and Eastern Europe,37.0,6.2,1.5,60.0,0.4,0.0,0.1,7.1,2019
+594,Slovenia,Central and Eastern Europe,47.0,5.9,1.5,66.2,0.6,0.1,0.2,7.1,2019
+641,South Africa,Sub-Saharan Africa,95.0,4.7,1.4,25.5,0.5,0.1,0.1,6.8,2019
+600,South Korea,East Asia,53.0,5.9,1.2,73.8,0.2,0.1,0.2,7.1,2019
+582,Spain,Western Europe,35.0,6.3,1.5,74.6,0.4,0.1,0.1,7.1,2019
+652,Sri Lanka,South Asia,106.0,4.5,1.3,51.9,0.6,0.0,0.3,6.8,2019
+640,State of Palestine,Middle East and North Africa,94.0,4.7,1.2,46.5,0.3,0.1,0.1,6.5,2019
+556,Sweden,Western Europe,9.0,7.3,1.5,70.6,0.7,0.4,0.3,7.2,2019
+552,Switzerland,Western Europe,5.0,7.5,1.5,71.6,0.7,0.4,0.3,7.3,2019
+573,Taiwan Province of China,East Asia,26.0,6.4,1.4,66.2,0.4,0.1,0.2,7.2,2019
+626,Tajikistan,Central and Eastern Europe,79.0,5.2,1.2,46.2,0.3,0.0,0.2,6.2,2019
+682,Tanzania,Sub-Saharan Africa,137.0,3.3,1.0,29.4,0.5,0.1,0.3,6.1,2019
+590,Thailand,Southeast Asia,43.0,6.1,1.4,54.6,0.6,0.0,0.4,6.9,2019
+674,Togo,Sub-Saharan Africa,129.0,4.0,0.5,19.6,0.4,0.1,0.2,5.6,2019
+647,Tunisia,Middle East and North Africa,101.0,4.6,0.9,53.3,0.3,0.1,0.0,6.8,2019
+613,Turkiye,Middle East and North Africa,66.0,5.5,1.4,53.0,0.3,0.1,0.1,7.0,2019
+671,Uganda,Sub-Saharan Africa,125.0,4.2,1.1,18.3,0.4,0.1,0.3,5.8,2019
+673,Ukraine,Central and Eastern Europe,128.0,4.1,1.4,47.1,0.2,0.0,0.2,6.7,2019
+567,United Arab Emirates,Middle East and North Africa,20.0,6.8,0.8,51.8,0.3,0.4,0.2,7.6,2019
+558,United Kingdom,Western Europe,11.0,7.2,1.4,68.6,0.5,0.1,0.3,7.1,2019
+565,United States,North America and ANZ,18.0,6.9,1.5,63.3,0.5,0.1,0.3,7.2,2019
+578,Uruguay,Latin America and Caribbean,31.0,6.4,1.5,59.6,0.6,0.2,0.1,7.0,2019
+589,Uzbekistan,Central and Eastern Europe,42.0,6.1,1.6,46.8,0.7,0.3,0.3,6.6,2019
+638,Venezuela,Latin America and Caribbean,92.0,4.8,1.5,50.8,0.1,0.1,0.1,6.9,2019
+633,Vietnam,Southeast Asia,86.0,5.1,1.4,54.3,0.6,0.1,0.2,6.6,2019
+661,Zambia,Sub-Saharan Africa,115.0,4.4,1.0,22.8,0.5,0.1,0.2,6.3,2019
+677,Zimbabwe,Sub-Saharan Africa,132.0,3.7,1.1,19.2,0.4,0.1,0.1,5.9,2019
+821,Afghanistan,South Asia,137.0,2.6,0.5,52.6,0.4,0.9,-0.1,7.5,2020
+781,Albania,Central and Eastern Europe,97.0,4.9,0.7,68.7,0.8,0.9,-0.0,9.4,2020
+776,Algeria,Middle East and North Africa,92.0,5.0,0.8,65.9,0.5,0.7,-0.1,9.5,2020
+737,Argentina,Latin America and Caribbean,53.0,6.0,0.9,68.8,0.8,0.8,-0.2,9.8,2020
+792,Armenia,Central and Eastern Europe,108.0,4.7,0.8,66.8,0.7,0.8,-0.1,9.1,2020
+696,Australia,North America and ANZ,12.0,7.2,0.9,73.6,0.9,0.4,0.2,10.7,2020
+693,Austria,Western Europe,9.0,7.3,0.9,73.0,0.9,0.5,0.1,10.7,2020
+724,Bahrain,Middle East and North Africa,40.0,6.2,0.9,68.5,0.9,0.7,0.1,10.7,2020
+783,Bangladesh,South Asia,99.0,4.8,0.7,64.5,0.9,0.7,-0.0,8.3,2020
+704,Belgium,Western Europe,20.0,6.9,0.9,72.0,0.8,0.6,-0.1,10.7,2020
+765,Benin,Sub-Saharan Africa,81.0,5.2,0.5,54.3,0.7,0.7,-0.0,7.7,2020
+747,Bolivia,Latin America and Caribbean,63.0,5.7,0.8,63.6,0.9,0.8,-0.1,8.9,2020
+751,Bosnia and Herzegovina,Central and Eastern Europe,67.0,5.7,0.8,67.8,0.7,0.9,0.1,9.5,2020
+818,Botswana,Sub-Saharan Africa,134.0,3.5,0.8,58.9,0.8,0.8,-0.3,9.7,2020
+716,Brazil,Latin America and Caribbean,32.0,6.4,0.9,66.5,0.8,0.8,-0.1,9.6,2020
+772,Bulgaria,Central and Eastern Europe,88.0,5.1,0.9,66.8,0.7,0.9,-0.1,9.9,2020
+788,Burkina Faso,Sub-Saharan Africa,104.0,4.8,0.7,53.9,0.7,0.7,-0.0,7.5,2020
+782,Cambodia,Southeast Asia,98.0,4.8,0.8,61.5,1.0,0.8,0.1,8.2,2020
+774,Cameroon,Sub-Saharan Africa,90.0,5.1,0.7,52.7,0.8,0.9,-0.0,8.1,2020
+695,Canada,North America and ANZ,11.0,7.2,0.9,73.6,0.9,0.4,0.1,10.7,2020
+803,Chad,Sub-Saharan Africa,119.0,4.4,0.6,48.2,0.6,0.8,0.0,7.5,2020
+723,Chile,Latin America and Caribbean,39.0,6.2,0.9,69.9,0.7,0.8,-0.1,10.0,2020
+771,China,East Asia,87.0,5.1,0.8,69.3,0.9,0.8,-0.2,9.7,2020
+727,Colombia,Latin America and Caribbean,43.0,6.2,0.9,67.7,0.8,0.9,-0.2,9.5,2020
+809,Comoros,Sub-Saharan Africa,125.0,4.3,0.6,57.3,0.5,0.8,0.1,7.8,2020
+766,Congo (Brazzaville),Sub-Saharan Africa,82.0,5.2,0.6,57.9,0.7,0.8,-0.1,8.5,2020
+807,Congo (Kinshasa),Sub-Saharan Africa,123.0,4.3,0.7,52.9,0.7,0.8,0.1,6.7,2020
+699,Costa Rica,Latin America and Caribbean,15.0,7.1,0.9,71.3,0.9,0.8,-0.1,9.7,2020
+759,Croatia,Central and Eastern Europe,75.0,5.5,0.9,70.2,0.7,0.9,-0.1,10.1,2020
+728,Cyprus,Western Europe,44.0,6.2,0.8,73.7,0.8,0.9,0.0,10.4,2020
+703,Czechia,Central and Eastern Europe,19.0,6.9,0.9,70.0,0.8,0.9,-0.2,10.4,2020
+686,Denmark,Western Europe,2.0,7.6,1.0,72.4,1.0,0.2,0.1,10.8,2020
+750,Dominican Republic,Latin America and Caribbean,66.0,5.7,0.9,65.8,0.9,0.8,-0.1,9.7,2020
+740,Ecuador,Latin America and Caribbean,56.0,5.9,0.8,68.5,0.9,0.8,-0.1,9.2,2020
+813,Egypt,Middle East and North Africa,129.0,4.2,0.7,61.8,0.7,0.8,-0.2,9.3,2020
+718,El Salvador,Latin America and Caribbean,34.0,6.3,0.8,66.1,0.8,0.8,-0.1,8.9,2020
+733,Estonia,Central and Eastern Europe,49.0,6.0,0.9,68.6,0.9,0.6,-0.1,10.3,2020
+811,Ethiopia,Sub-Saharan Africa,127.0,4.2,0.7,58.6,0.7,0.8,0.0,7.5,2020
+685,Finland,Western Europe,1.0,7.8,1.0,71.9,0.9,0.2,-0.1,10.6,2020
+707,France,Western Europe,23.0,6.7,0.9,73.8,0.8,0.6,-0.1,10.6,2020
+784,Gabon,Sub-Saharan Africa,100.0,4.8,0.8,59.7,0.7,0.8,-0.2,9.7,2020
+789,Gambia,Sub-Saharan Africa,105.0,4.8,0.7,55.0,0.7,0.7,0.3,7.3,2020
+793,Georgia,Central and Eastern Europe,109.0,4.7,0.6,64.5,0.8,0.7,-0.2,9.2,2020
+701,Germany,Western Europe,17.0,7.1,0.9,72.2,0.9,0.5,0.1,10.7,2020
+768,Ghana,Sub-Saharan Africa,84.0,5.1,0.7,57.2,0.8,0.8,0.1,8.4,2020
+757,Greece,Western Europe,73.0,5.5,0.8,72.4,0.5,0.9,-0.3,10.1,2020
+713,Guatemala,Latin America and Caribbean,29.0,6.4,0.8,64.8,0.9,0.8,-0.0,8.9,2020
+778,Guinea,Sub-Saharan Africa,94.0,4.9,0.6,54.5,0.7,0.8,0.1,7.8,2020
+738,Honduras,Latin America and Caribbean,54.0,6.0,0.8,67.2,0.9,0.8,0.1,8.4,2020
+758,Hong Kong S.A.R. of China,East Asia,74.0,5.5,0.8,76.8,0.8,0.4,0.1,10.9,2020
+735,Hungary,Central and Eastern Europe,51.0,6.0,0.9,67.6,0.7,0.9,-0.2,10.2,2020
+688,Iceland,Western Europe,4.0,7.5,1.0,73.0,0.9,0.7,0.2,10.8,2020
+816,India,South Asia,132.0,3.6,0.6,60.2,0.9,0.8,0.1,8.8,2020
+763,Indonesia,Southeast Asia,79.0,5.3,0.8,62.2,0.9,0.9,0.5,9.4,2020
+794,Iran,Middle East and North Africa,110.0,4.7,0.7,66.0,0.6,0.7,0.1,9.8,2020
+786,Iraq,Middle East and North Africa,102.0,4.8,0.7,59.9,0.6,0.8,-0.1,9.7,2020
+700,Ireland,Western Europe,16.0,7.1,0.9,72.3,0.9,0.4,0.1,11.2,2020
+698,Israel,Middle East and North Africa,14.0,7.1,0.9,73.2,0.7,0.8,0.1,10.4,2020
+714,Italy,Western Europe,30.0,6.4,0.9,73.6,0.7,0.9,-0.0,10.5,2020
+764,Ivory Coast,Sub-Saharan Africa,80.0,5.2,0.7,49.5,0.7,0.8,-0.0,8.2,2020
+742,Jamaica,Latin America and Caribbean,58.0,5.9,0.9,67.1,0.9,0.9,-0.1,9.0,2020
+744,Japan,East Asia,60.0,5.9,0.9,75.0,0.8,0.7,-0.2,10.6,2020
+795,Jordan,Middle East and North Africa,111.0,4.6,0.8,66.8,0.8,0.7,-0.2,9.0,2020
+732,Kazakhstan,Central and Eastern Europe,48.0,6.1,0.9,64.6,0.8,0.8,-0.1,10.1,2020
+797,Kenya,Sub-Saharan Africa,113.0,4.6,0.7,60.1,0.8,0.8,0.3,8.0,2020
+719,Kosovo,Central and Eastern Europe,35.0,6.3,0.8,63.9,0.9,0.9,0.2,9.2,2020
+756,Kyrgyzstan,Central and Eastern Europe,72.0,5.5,0.9,64.1,0.9,0.9,0.2,8.1,2020
+780,Laos,Southeast Asia,96.0,4.9,0.7,58.7,0.9,0.6,0.1,8.8,2020
+739,Latvia,Central and Eastern Europe,55.0,5.9,0.9,66.8,0.7,0.8,-0.2,10.2,2020
+787,Lebanon,Middle East and North Africa,103.0,4.8,0.8,67.1,0.6,0.9,-0.1,9.4,2020
+800,Liberia,Sub-Saharan Africa,116.0,4.6,0.7,56.1,0.7,0.9,0.0,7.1,2020
+725,Lithuania,Central and Eastern Europe,41.0,6.2,0.9,67.3,0.7,0.8,-0.2,10.3,2020
+694,Luxembourg,Western Europe,10.0,7.2,0.9,72.6,0.9,0.4,-0.0,11.5,2020
+812,Madagascar,Sub-Saharan Africa,128.0,4.2,0.7,59.1,0.6,0.8,-0.0,7.3,2020
+817,Malawi,Sub-Saharan Africa,133.0,3.5,0.5,57.6,0.8,0.7,0.0,7.1,2020
+761,Malaysia,Southeast Asia,77.0,5.4,0.8,67.1,0.9,0.8,0.1,10.3,2020
+790,Mali,Sub-Saharan Africa,106.0,4.7,0.7,51.7,0.7,0.8,-0.0,7.6,2020
+706,Malta,Western Europe,22.0,6.8,0.9,72.2,0.9,0.7,0.2,10.5,2020
+805,Mauritania,Sub-Saharan Africa,121.0,4.4,0.8,57.0,0.6,0.7,-0.1,8.2,2020
+731,Mauritius,Sub-Saharan Africa,47.0,6.1,0.9,66.4,0.9,0.8,-0.0,10.0,2020
+708,Mexico,Latin America and Caribbean,24.0,6.5,0.8,68.3,0.9,0.8,-0.2,9.8,2020
+752,Moldova,Central and Eastern Europe,68.0,5.6,0.8,65.0,0.7,0.9,-0.0,8.8,2020
+760,Mongolia,East Asia,76.0,5.5,0.9,62.3,0.7,0.9,0.1,9.4,2020
+754,Montenegro,Central and Eastern Europe,70.0,5.5,0.9,68.5,0.6,0.8,-0.1,9.8,2020
+773,Morocco,Middle East and North Africa,89.0,5.1,0.6,65.9,0.8,0.8,-0.2,8.9,2020
+796,Mozambique,Sub-Saharan Africa,112.0,4.6,0.7,54.2,0.9,0.7,0.0,7.1,2020
+808,Myanmar,Southeast Asia,124.0,4.3,0.8,59.0,0.9,0.6,0.6,8.7,2020
+798,Namibia,Sub-Saharan Africa,114.0,4.6,0.8,56.5,0.8,0.9,-0.2,9.2,2020
+769,Nepal,South Asia,85.0,5.1,0.8,63.8,0.8,0.7,0.2,7.9,2020
+690,Netherlands,Western Europe,6.0,7.4,0.9,72.3,0.9,0.4,0.2,10.8,2020
+692,New Zealand,North America and ANZ,8.0,7.3,0.9,73.2,0.9,0.2,0.2,10.5,2020
+729,Nicaragua,Latin America and Caribbean,45.0,6.1,0.9,67.5,0.9,0.7,0.0,8.5,2020
+779,Niger,Sub-Saharan Africa,95.0,4.9,0.6,53.5,0.8,0.7,0.0,6.8,2020
+791,Nigeria,Sub-Saharan Africa,107.0,4.7,0.7,49.9,0.8,0.9,0.0,8.6,2020
+767,North Macedonia,Central and Eastern Europe,83.0,5.2,0.8,67.5,0.7,0.9,-0.0,9.5,2020
+689,Norway,Western Europe,5.0,7.5,1.0,73.2,1.0,0.3,0.1,11.1,2020
+748,Pakistan,South Asia,64.0,5.7,0.7,58.3,0.7,0.7,0.0,8.5,2020
+720,Panama,Latin America and Caribbean,36.0,6.3,0.9,69.6,0.9,0.9,-0.2,10.0,2020
+749,Paraguay,Latin America and Caribbean,65.0,5.7,0.9,65.6,0.9,0.8,0.0,9.4,2020
+745,Peru,Latin America and Caribbean,61.0,5.8,0.8,68.1,0.8,0.9,-0.2,9.5,2020
+734,Philippines,Southeast Asia,50.0,6.0,0.8,61.9,0.9,0.7,-0.1,9.0,2020
+726,Poland,Central and Eastern Europe,42.0,6.2,0.9,69.3,0.9,0.7,-0.2,10.3,2020
+741,Portugal,Western Europe,57.0,5.9,0.9,72.4,0.9,0.9,-0.2,10.3,2020
+730,Romania,Central and Eastern Europe,46.0,6.1,0.8,67.2,0.8,0.9,-0.2,10.1,2020
+755,Russia,Central and Eastern Europe,71.0,5.5,0.9,64.1,0.7,0.9,-0.2,10.1,2020
+711,Saudi Arabia,Middle East and North Africa,27.0,6.4,0.9,66.3,0.9,0.7,-0.2,10.8,2020
+777,Senegal,Sub-Saharan Africa,93.0,5.0,0.7,59.6,0.7,0.8,-0.1,8.1,2020
+746,Serbia,Central and Eastern Europe,62.0,5.8,0.9,68.2,0.7,0.8,-0.1,9.7,2020
+814,Sierra Leone,Sub-Saharan Africa,130.0,3.9,0.6,50.9,0.7,0.9,0.1,7.3,2020
+715,Singapore,Southeast Asia,31.0,6.4,0.9,76.8,0.9,0.1,0.0,11.4,2020
+721,Slovakia,Central and Eastern Europe,37.0,6.3,0.9,68.9,0.7,0.9,-0.1,10.3,2020
+717,Slovenia,Central and Eastern Europe,33.0,6.4,0.9,71.1,0.9,0.8,-0.1,10.4,2020
+785,South Africa,Sub-Saharan Africa,101.0,4.8,0.9,56.5,0.8,0.8,-0.1,9.4,2020
+743,South Korea,East Asia,59.0,5.9,0.8,73.6,0.6,0.8,-0.0,10.5,2020
+712,Spain,Western Europe,28.0,6.4,0.9,74.4,0.8,0.8,-0.1,10.5,2020
+806,Sri Lanka,South Asia,122.0,4.3,0.8,67.2,0.8,0.9,0.1,9.4,2020
+801,State of Palestine,Middle East and North Africa,117.0,4.6,0.8,62.2,0.6,0.8,-0.2,8.4,2020
+691,Sweden,Western Europe,7.0,7.4,0.9,72.6,0.9,0.3,0.1,10.8,2020
+687,Switzerland,Western Europe,3.0,7.6,0.9,74.1,0.9,0.3,0.1,11.0,2020
+709,Taiwan Province of China,East Asia,25.0,6.5,0.9,69.6,0.8,0.7,-0.1,10.8,2020
+753,Tajikistan,Central and Eastern Europe,69.0,5.6,0.8,64.1,0.8,0.6,-0.0,8.0,2020
+819,Tanzania,Sub-Saharan Africa,135.0,3.5,0.7,57.5,0.8,0.6,0.1,8.0,2020
+736,Thailand,Southeast Asia,52.0,6.0,0.9,67.3,0.9,0.9,0.3,9.7,2020
+810,Togo,Sub-Saharan Africa,126.0,4.2,0.6,54.7,0.6,0.8,0.0,7.4,2020
+804,Tunisia,Middle East and North Africa,120.0,4.4,0.7,66.9,0.6,0.9,-0.2,9.3,2020
+770,Turkiye,Middle East and North Africa,86.0,5.1,0.8,66.9,0.6,0.7,-0.2,10.1,2020
+802,Uganda,Sub-Saharan Africa,118.0,4.4,0.8,55.7,0.7,0.8,0.1,7.5,2020
+799,Ukraine,Central and Eastern Europe,115.0,4.6,0.9,64.6,0.7,0.9,-0.0,9.0,2020
+705,United Arab Emirates,Middle East and North Africa,21.0,6.8,0.8,67.1,0.9,0.6,0.1,11.1,2020
+697,United Kingdom,Western Europe,13.0,7.2,0.9,72.3,0.8,0.4,0.3,10.6,2020
+702,United States,North America and ANZ,18.0,6.9,0.9,68.3,0.8,0.7,0.1,10.9,2020
+710,Uruguay,Latin America and Caribbean,26.0,6.4,0.9,69.0,0.9,0.6,-0.1,9.9,2020
+722,Uzbekistan,Central and Eastern Europe,38.0,6.3,0.9,65.1,1.0,0.5,0.2,8.7,2020
+775,Venezuela,Latin America and Caribbean,91.0,5.1,0.9,66.5,0.6,0.8,-0.2,9.0,2020
+762,Vietnam,Southeast Asia,78.0,5.4,0.8,68.0,0.9,0.8,-0.1,8.8,2020
+815,Zambia,Sub-Saharan Africa,131.0,3.8,0.7,55.3,0.8,0.8,0.1,8.2,2020
+820,Zimbabwe,Sub-Saharan Africa,136.0,3.3,0.8,55.6,0.7,0.8,-0.1,7.9,2020
+957,Afghanistan,South Asia,137.0,2.5,0.5,52.5,0.4,0.9,-0.1,7.7,2021
+908,Albania,Central and Eastern Europe,87.0,5.1,0.7,69.0,0.8,0.9,-0.0,9.5,2021
+923,Algeria,Middle East and North Africa,102.0,4.9,0.8,66.0,0.5,0.8,-0.1,9.3,2021
+877,Argentina,Latin America and Caribbean,56.0,5.9,0.9,69.0,0.8,0.8,-0.2,10.0,2021
+903,Armenia,Central and Eastern Europe,82.0,5.3,0.8,67.1,0.8,0.6,-0.2,9.5,2021
+832,Australia,North America and ANZ,11.0,7.2,0.9,73.9,0.9,0.4,0.2,10.8,2021
+831,Austria,Western Europe,10.0,7.3,0.9,73.3,0.9,0.5,0.0,10.9,2021
+843,Bahrain,Middle East and North Africa,22.0,6.6,0.9,69.5,0.9,0.7,0.1,10.7,2021
+915,Bangladesh,South Asia,94.0,5.0,0.7,64.8,0.9,0.7,-0.0,8.5,2021
+841,Belgium,Western Europe,20.0,6.8,0.9,72.2,0.8,0.6,-0.2,10.8,2021
+913,Benin,Sub-Saharan Africa,92.0,5.0,0.5,54.7,0.8,0.7,-0.0,8.1,2021
+889,Bolivia,Latin America and Caribbean,68.0,5.7,0.8,63.9,0.9,0.8,-0.1,9.0,2021
+884,Bosnia and Herzegovina,Central and Eastern Europe,63.0,5.8,0.9,68.1,0.7,0.9,0.1,9.6,2021
+955,Botswana,Sub-Saharan Africa,135.0,3.5,0.8,59.3,0.8,0.8,-0.2,9.8,2021
+856,Brazil,Latin America and Caribbean,35.0,6.3,0.9,66.6,0.8,0.8,-0.1,9.6,2021
+905,Bulgaria,Central and Eastern Europe,84.0,5.3,0.9,67.0,0.8,0.9,-0.1,10.0,2021
+927,Burkina Faso,Sub-Saharan Africa,106.0,4.8,0.7,54.2,0.7,0.7,-0.0,7.7,2021
+928,Cambodia,Southeast Asia,107.0,4.8,0.8,62.0,1.0,0.8,0.0,8.4,2021
+906,Cameroon,Sub-Saharan Africa,85.0,5.1,0.7,53.5,0.7,0.8,0.0,8.2,2021
+835,Canada,North America and ANZ,14.0,7.1,0.9,73.8,0.9,0.4,0.1,10.8,2021
+942,Chad,Sub-Saharan Africa,121.0,4.4,0.6,48.5,0.6,0.8,0.0,7.4,2021
+864,Chile,Latin America and Caribbean,43.0,6.2,0.9,70.0,0.7,0.8,-0.0,10.1,2021
+901,China,East Asia,80.0,5.3,0.8,69.6,0.9,0.8,-0.1,9.7,2021
+872,Colombia,Latin America and Caribbean,51.0,6.0,0.8,68.0,0.8,0.8,-0.1,9.6,2021
+944,Comoros,Sub-Saharan Africa,123.0,4.3,0.6,57.3,0.5,0.8,0.1,8.0,2021
+900,Congo (Brazzaville),Sub-Saharan Africa,79.0,5.3,0.6,58.2,0.7,0.7,-0.1,8.1,2021
+958,Congo (Kinshasa),Sub-Saharan Africa,128.0,4.2,0.9,25.2,0.4,0.3,0.2,4.4,2021
+837,Costa Rica,Latin America and Caribbean,16.0,7.1,0.9,71.4,0.9,0.8,-0.1,9.9,2021
+880,Croatia,Central and Eastern Europe,59.0,5.9,0.9,70.8,0.8,0.9,-0.1,10.2,2021
+860,Cyprus,Western Europe,39.0,6.2,0.8,73.9,0.8,0.8,-0.0,10.6,2021
+839,Czechia,Central and Eastern Europe,18.0,7.0,0.9,70.8,0.9,0.9,-0.2,10.6,2021
+823,Denmark,Western Europe,2.0,7.6,1.0,72.7,0.9,0.2,0.0,10.9,2021
+893,Dominican Republic,Latin America and Caribbean,72.0,5.5,0.9,66.1,0.9,0.7,-0.1,9.8,2021
+886,Ecuador,Latin America and Caribbean,65.0,5.8,0.8,68.8,0.8,0.8,-0.1,9.3,2021
+945,Egypt,Middle East and North Africa,124.0,4.3,0.8,62.0,0.7,0.8,-0.2,9.4,2021
+869,El Salvador,Latin America and Caribbean,48.0,6.1,0.8,66.4,0.9,0.7,-0.1,9.1,2021
+861,Estonia,Central and Eastern Europe,40.0,6.2,0.9,68.8,0.9,0.5,-0.1,10.5,2021
+946,Ethiopia,Sub-Saharan Africa,125.0,4.3,0.8,59.0,0.8,0.8,0.1,7.7,2021
+822,Finland,Western Europe,1.0,7.8,1.0,72.0,0.9,0.2,-0.1,10.8,2021
+842,France,Western Europe,21.0,6.7,0.9,74.0,0.8,0.6,-0.1,10.7,2021
+926,Gabon,Sub-Saharan Africa,105.0,4.9,0.8,60.0,0.7,0.8,-0.2,9.6,2021
+912,Gambia,Sub-Saharan Africa,91.0,5.1,0.7,55.2,0.7,0.7,0.4,7.7,2021
+922,Georgia,Central and Eastern Europe,101.0,4.9,0.7,64.3,0.8,0.7,-0.2,9.6,2021
+834,Germany,Western Europe,13.0,7.2,0.9,72.5,0.9,0.5,0.0,10.9,2021
+910,Ghana,Sub-Saharan Africa,89.0,5.1,0.7,57.6,0.8,0.8,0.1,8.6,2021
+888,Greece,Western Europe,67.0,5.7,0.8,72.6,0.6,0.8,-0.3,10.3,2021
+851,Guatemala,Latin America and Caribbean,30.0,6.4,0.8,65.0,0.9,0.8,-0.0,9.1,2021
+916,Guinea,Sub-Saharan Africa,95.0,5.0,0.6,55.0,0.7,0.8,0.1,7.8,2021
+879,Honduras,Latin America and Caribbean,58.0,5.9,0.8,67.3,0.9,0.8,0.1,8.6,2021
+895,Hong Kong S.A.R. of China,East Asia,73.0,5.5,0.8,76.8,0.7,0.4,0.1,11.0,2021
+873,Hungary,Central and Eastern Europe,52.0,6.0,0.9,68.0,0.8,0.9,-0.2,10.4,2021
+825,Iceland,Western Europe,4.0,7.6,1.0,73.0,1.0,0.7,0.2,10.9,2021
+952,India,South Asia,132.0,3.8,0.6,60.6,0.9,0.8,0.1,8.8,2021
+899,Indonesia,Southeast Asia,78.0,5.3,0.8,62.2,0.9,0.9,0.5,9.4,2021
+932,Iran,Middle East and North Africa,111.0,4.7,0.7,66.3,0.6,0.7,0.2,9.6,2021
+925,Iraq,Middle East and North Africa,104.0,4.9,0.7,60.6,0.6,0.9,-0.1,9.2,2021
+836,Ireland,Western Europe,15.0,7.1,0.9,72.4,0.9,0.4,0.1,11.3,2021
+833,Israel,Middle East and North Africa,12.0,7.2,0.9,73.5,0.8,0.8,0.0,10.6,2021
+849,Italy,Western Europe,28.0,6.5,0.9,73.8,0.7,0.9,-0.1,10.6,2021
+902,Ivory Coast,Sub-Saharan Africa,81.0,5.3,0.6,50.1,0.7,0.8,-0.0,8.6,2021
+858,Jamaica,Latin America and Caribbean,37.0,6.3,0.9,67.5,0.9,0.9,-0.1,9.2,2021
+876,Japan,East Asia,55.0,5.9,0.9,75.1,0.8,0.6,-0.3,10.6,2021
+941,Jordan,Middle East and North Africa,120.0,4.4,0.8,67.0,0.8,0.7,-0.2,9.2,2021
+866,Kazakhstan,Central and Eastern Europe,45.0,6.2,1.0,65.2,0.9,0.7,-0.1,10.2,2021
+935,Kenya,Sub-Saharan Africa,114.0,4.6,0.7,60.7,0.8,0.8,0.3,8.4,2021
+854,Kosovo,Central and Eastern Europe,33.0,6.4,0.8,63.8,0.9,0.9,0.3,9.3,2021
+887,Kyrgyzstan,Central and Eastern Europe,66.0,5.7,0.9,64.4,0.9,0.9,0.1,8.5,2021
+914,Laos,Southeast Asia,93.0,5.0,0.7,59.0,0.9,0.7,0.1,8.9,2021
+871,Latvia,Central and Eastern Europe,50.0,6.0,0.9,67.1,0.7,0.8,-0.2,10.3,2021
+937,Lebanon,Middle East and North Africa,116.0,4.6,0.8,67.4,0.5,0.9,-0.1,9.6,2021
+934,Liberia,Sub-Saharan Africa,113.0,4.6,0.7,56.5,0.7,0.8,0.0,7.3,2021
+859,Lithuania,Central and Eastern Europe,38.0,6.3,0.9,67.9,0.8,0.8,-0.2,10.5,2021
+829,Luxembourg,Western Europe,8.0,7.3,0.9,72.6,0.9,0.4,-0.0,11.6,2021
+948,Madagascar,Sub-Saharan Africa,127.0,4.2,0.7,59.3,0.6,0.8,-0.0,7.4,2021
+954,Malawi,Sub-Saharan Africa,134.0,3.6,0.5,57.9,0.8,0.7,0.0,7.0,2021
+898,Malaysia,Southeast Asia,77.0,5.4,0.8,67.1,0.9,0.8,0.1,10.2,2021
+931,Mali,Sub-Saharan Africa,110.0,4.7,0.7,52.0,0.7,0.8,-0.0,7.7,2021
+844,Malta,Western Europe,23.0,6.6,0.9,72.2,0.9,0.7,0.1,10.7,2021
+947,Mauritania,Sub-Saharan Africa,126.0,4.2,0.8,57.2,0.6,0.7,-0.1,8.5,2021
+870,Mauritius,Sub-Saharan Africa,49.0,6.0,0.9,66.7,0.9,0.8,-0.1,10.0,2021
+857,Mexico,Latin America and Caribbean,36.0,6.3,0.8,68.6,0.9,0.8,-0.1,9.9,2021
+885,Moldova,Central and Eastern Europe,64.0,5.8,0.9,65.7,0.8,0.9,-0.1,9.5,2021
+890,Mongolia,East Asia,69.0,5.7,0.9,62.5,0.7,0.9,0.1,9.4,2021
+892,Montenegro,Central and Eastern Europe,71.0,5.6,0.9,68.7,0.7,0.8,-0.0,9.9,2021
+920,Morocco,Middle East and North Africa,99.0,4.9,0.6,66.2,0.8,0.8,-0.2,8.9,2021
+929,Mozambique,Sub-Saharan Africa,108.0,4.8,0.7,54.7,0.9,0.7,0.1,7.2,2021
+940,Myanmar,Southeast Asia,119.0,4.4,0.8,59.3,0.9,0.7,0.5,8.5,2021
+938,Namibia,Sub-Saharan Africa,117.0,4.6,0.8,56.8,0.7,0.8,-0.1,9.2,2021
+904,Nepal,South Asia,83.0,5.3,0.8,64.2,0.8,0.7,0.2,8.1,2021
+826,Netherlands,Western Europe,5.0,7.5,0.9,72.4,0.9,0.3,0.2,10.9,2021
+830,New Zealand,North America and ANZ,9.0,7.3,0.9,73.4,0.9,0.2,0.1,10.6,2021
+875,Nicaragua,Latin America and Caribbean,54.0,6.0,0.9,67.7,0.8,0.7,0.0,8.6,2021
+911,Niger,Sub-Saharan Africa,90.0,5.1,0.6,53.8,0.8,0.7,0.0,7.1,2021
+930,Nigeria,Sub-Saharan Africa,109.0,4.8,0.7,50.1,0.7,0.9,0.0,8.5,2021
+909,North Macedonia,Central and Eastern Europe,88.0,5.1,0.8,65.5,0.8,0.9,0.0,9.7,2021
+827,Norway,Western Europe,6.0,7.4,1.0,73.3,1.0,0.3,0.1,11.1,2021
+919,Pakistan,South Asia,98.0,4.9,0.7,58.7,0.7,0.8,0.1,8.5,2021
+862,Panama,Latin America and Caribbean,41.0,6.2,0.9,69.7,0.9,0.9,-0.2,10.4,2021
+891,Paraguay,Latin America and Caribbean,70.0,5.7,0.9,65.9,0.9,0.9,0.0,9.4,2021
+883,Peru,Latin America and Caribbean,62.0,5.8,0.8,68.2,0.8,0.9,-0.2,9.5,2021
+881,Philippines,Southeast Asia,60.0,5.9,0.8,62.0,0.9,0.7,-0.1,9.1,2021
+865,Poland,Central and Eastern Europe,44.0,6.2,0.9,69.7,0.8,0.7,-0.2,10.4,2021
+878,Portugal,Western Europe,56.0,5.9,0.9,72.6,0.9,0.9,-0.2,10.4,2021
+867,Romania,Central and Eastern Europe,46.0,6.1,0.8,67.4,0.8,0.9,-0.2,10.3,2021
+894,Russia,Central and Eastern Europe,73.0,5.5,0.9,64.7,0.7,0.8,-0.1,10.2,2021
+847,Saudi Arabia,Middle East and North Africa,26.0,6.5,0.9,66.6,0.9,0.7,-0.1,10.7,2021
+907,Senegal,Sub-Saharan Africa,86.0,5.1,0.7,59.8,0.7,0.8,-0.0,8.1,2021
+868,Serbia,Central and Eastern Europe,47.0,6.1,0.9,68.6,0.8,0.8,0.0,9.8,2021
+951,Sierra Leone,Sub-Saharan Africa,131.0,3.8,0.6,51.7,0.7,0.9,0.1,7.4,2021
+853,Singapore,Southeast Asia,32.0,6.4,0.9,77.0,0.9,0.1,-0.0,11.5,2021
+855,Slovakia,Central and Eastern Europe,34.0,6.3,0.9,69.2,0.8,0.9,-0.1,10.4,2021
+850,Slovenia,Central and Eastern Europe,29.0,6.5,0.9,71.4,0.9,0.8,-0.1,10.5,2021
+917,South Africa,Sub-Saharan Africa,96.0,5.0,0.9,56.9,0.7,0.9,-0.1,9.4,2021
+882,South Korea,East Asia,61.0,5.8,0.8,73.9,0.7,0.7,-0.1,10.7,2021
+848,Spain,Western Europe,27.0,6.5,0.9,74.7,0.8,0.7,-0.1,10.6,2021
+943,Sri Lanka,South Asia,122.0,4.3,0.8,67.3,0.8,0.9,0.1,9.5,2021
+939,State of Palestine,Middle East and North Africa,118.0,4.5,0.8,62.2,0.7,0.8,-0.2,8.5,2021
+828,Sweden,Western Europe,7.0,7.4,0.9,72.7,0.9,0.2,0.1,10.9,2021
+824,Switzerland,Western Europe,3.0,7.6,0.9,74.4,0.9,0.3,0.0,11.1,2021
+845,Taiwan Province of China,East Asia,24.0,6.6,0.9,69.6,0.8,0.7,-0.1,10.9,2021
+896,Tajikistan,Central and Eastern Europe,75.0,5.5,0.9,64.3,0.8,0.6,-0.1,8.1,2021
+953,Tanzania,Sub-Saharan Africa,133.0,3.6,0.7,58.0,0.8,0.6,0.2,7.9,2021
+874,Thailand,Southeast Asia,53.0,6.0,0.9,67.4,0.9,0.9,0.3,9.8,2021
+949,Togo,Sub-Saharan Africa,129.0,4.1,0.6,54.9,0.6,0.8,0.0,7.4,2021
+936,Tunisia,Middle East and North Africa,115.0,4.6,0.7,67.2,0.7,0.9,-0.2,9.3,2021
+918,Turkiye,Middle East and North Africa,97.0,4.9,0.8,67.2,0.6,0.8,-0.1,10.2,2021
+933,Uganda,Sub-Saharan Africa,112.0,4.6,0.8,56.1,0.7,0.9,0.1,7.7,2021
+924,Ukraine,Central and Eastern Europe,103.0,4.9,0.9,64.9,0.7,0.9,-0.0,9.4,2021
+846,United Arab Emirates,Middle East and North Africa,25.0,6.6,0.8,67.3,0.9,0.6,0.1,11.1,2021
+838,United Kingdom,Western Europe,17.0,7.1,0.9,72.5,0.9,0.5,0.2,10.7,2021
+840,United States,North America and ANZ,19.0,7.0,0.9,68.2,0.8,0.7,0.1,11.0,2021
+852,Uruguay,Latin America and Caribbean,31.0,6.4,0.9,69.1,0.9,0.6,-0.1,10.0,2021
+863,Uzbekistan,Central and Eastern Europe,42.0,6.2,0.9,65.3,1.0,0.5,0.3,8.8,2021
+921,Venezuela,Latin America and Caribbean,100.0,4.9,0.9,66.7,0.6,0.8,-0.2,9.1,2021
+897,Vietnam,Southeast Asia,76.0,5.4,0.8,68.0,0.9,0.8,-0.1,9.0,2021
+950,Zambia,Sub-Saharan Africa,130.0,4.1,0.7,55.8,0.8,0.8,0.1,8.1,2021
+956,Zimbabwe,Sub-Saharan Africa,136.0,3.1,0.8,56.2,0.7,0.8,-0.0,7.9,2021
+1094,Afghanistan,South Asia,137.0,2.4,0.0,11.6,0.0,0.0,0.1,7.7,2022
+1043,Albania,Central and Eastern Europe,84.0,5.2,0.3,28.8,0.5,0.0,0.2,8.3,2022
+1048,Algeria,Middle East and North Africa,90.0,5.1,0.4,25.7,0.1,0.0,0.2,8.3,2022
+1014,Argentina,Latin America and Caribbean,56.0,6.0,0.5,26.5,0.5,0.0,0.1,8.4,2022
+1036,Armenia,Central and Eastern Europe,78.0,5.4,0.3,26.7,0.5,0.0,0.1,8.3,2022
+970,Australia,North America and ANZ,12.0,7.2,0.5,30.9,0.6,0.0,0.4,8.6,2022
+969,Austria,Western Europe,11.0,7.2,0.5,31.0,0.6,0.0,0.3,8.6,2022
+979,Bahrain,Middle East and North Africa,21.0,6.6,0.4,25.0,0.6,0.0,0.3,8.6,2022
+1046,Bangladesh,South Asia,88.0,5.2,0.3,23.2,0.6,0.0,0.2,8.0,2022
+977,Belgium,Western Europe,19.0,6.8,0.5,30.6,0.4,0.0,0.1,8.6,2022
+1067,Benin,Sub-Saharan Africa,109.0,4.6,0.0,13.4,0.4,0.0,0.2,7.9,2022
+1027,Bolivia,Latin America and Caribbean,69.0,5.6,0.4,22.2,0.6,0.0,0.2,8.2,2022
+1023,Bosnia and Herzegovina,Central and Eastern Europe,65.0,5.8,0.4,26.6,0.4,0.0,0.4,8.3,2022
+1091,Botswana,Sub-Saharan Africa,134.0,3.5,0.3,11.2,0.5,0.0,0.0,8.4,2022
+996,Brazil,Latin America and Caribbean,38.0,6.3,0.4,24.6,0.5,0.0,0.2,8.3,2022
+1039,Bulgaria,Central and Eastern Europe,81.0,5.4,0.5,25.6,0.5,0.0,0.2,8.4,2022
+1065,Burkina Faso,Sub-Saharan Africa,107.0,4.7,0.2,12.8,0.3,0.0,0.3,7.7,2022
+1066,Cambodia,Southeast Asia,108.0,4.6,0.3,20.2,0.7,0.0,0.3,8.0,2022
+1054,Cameroon,Sub-Saharan Africa,95.0,5.0,0.3,12.7,0.4,0.0,0.3,7.9,2022
+973,Canada,North America and ANZ,15.0,7.0,0.5,31.3,0.6,0.0,0.4,8.6,2022
+1081,Chad,Sub-Saharan Africa,123.0,4.3,0.2,9.0,0.2,0.0,0.3,7.5,2022
+1002,Chile,Latin America and Caribbean,44.0,6.2,0.4,29.9,0.4,0.0,0.2,8.5,2022
+1028,China,East Asia,70.0,5.6,0.4,28.2,0.6,0.0,0.2,8.4,2022
+1022,Colombia,Latin America and Caribbean,64.0,5.8,0.4,28.8,0.5,0.0,0.1,8.3,2022
+1068,Comoros,Sub-Saharan Africa,110.0,4.6,0.2,17.0,0.2,0.0,0.3,7.9,2022
+1051,Congo (Brazzaville),Sub-Saharan Africa,93.0,5.1,0.2,14.2,0.4,0.0,0.2,7.9,2022
+1095,Congo (Kinshasa),Sub-Saharan Africa,125.0,4.2,0.9,25.2,0.4,0.3,0.2,4.4,2022
+981,Costa Rica,Latin America and Caribbean,23.0,6.6,0.4,29.8,0.6,0.0,0.1,8.4,2022
+1005,Croatia,Central and Eastern Europe,47.0,6.1,0.5,28.4,0.5,-0.0,0.2,8.5,2022
+999,Cyprus,Western Europe,41.0,6.2,0.4,32.8,0.4,0.0,0.2,8.6,2022
+976,Czechia,Central and Eastern Europe,18.0,6.9,0.5,28.6,0.6,0.0,0.3,8.6,2022
+960,Denmark,Western Europe,2.0,7.6,0.5,31.1,0.7,0.0,0.3,8.6,2022
+1025,Dominican Republic,Latin America and Caribbean,67.0,5.7,0.4,23.1,0.6,0.0,0.1,8.4,2022
+1032,Ecuador,Latin America and Caribbean,74.0,5.5,0.4,28.3,0.5,0.0,0.1,8.3,2022
+1080,Egypt,Middle East and North Africa,122.0,4.3,0.3,21.9,0.4,0.0,0.1,8.3,2022
+1007,El Salvador,Latin America and Caribbean,49.0,6.1,0.3,24.3,0.6,0.0,0.1,8.2,2022
+994,Estonia,Central and Eastern Europe,36.0,6.3,0.5,29.1,0.6,0.0,0.2,8.5,2022
+1082,Ethiopia,Sub-Saharan Africa,124.0,4.2,0.3,18.3,0.4,0.0,0.3,7.7,2022
+959,Finland,Western Europe,1.0,7.8,0.5,31.0,0.7,0.0,0.2,8.6,2022
+978,France,Western Europe,20.0,6.7,0.5,32.3,0.5,0.0,0.1,8.6,2022
+1058,Gabon,Sub-Saharan Africa,100.0,5.0,0.3,15.8,0.3,0.0,0.1,8.3,2022
+1045,Gambia,Sub-Saharan Africa,87.0,5.2,0.3,14.8,0.3,0.0,0.6,7.7,2022
+1057,Georgia,Central and Eastern Europe,99.0,5.0,0.3,23.8,0.5,0.0,0.0,8.3,2022
+972,Germany,Western Europe,14.0,7.0,0.5,31.0,0.5,0.0,0.3,8.6,2022
+1063,Ghana,Sub-Saharan Africa,105.0,4.9,0.2,16.4,0.5,0.0,0.4,8.1,2022
+1015,Greece,Western Europe,57.0,5.9,0.4,31.0,0.2,0.0,0.0,8.5,2022
+997,Guatemala,Latin America and Caribbean,39.0,6.3,0.3,20.9,0.6,0.0,0.2,8.2,2022
+1061,Guinea,Sub-Saharan Africa,103.0,4.9,0.2,11.0,0.3,0.0,0.4,7.8,2022
+1012,Honduras,Latin America and Caribbean,54.0,6.0,0.4,22.2,0.5,0.0,0.3,8.1,2022
+1035,Hong Kong S.A.R. of China,East Asia,77.0,5.4,0.4,37.7,0.4,0.0,0.2,8.6,2022
+1008,Hungary,Central and Eastern Europe,50.0,6.1,0.5,26.7,0.4,0.0,0.1,8.5,2022
+961,Iceland,Western Europe,3.0,7.6,0.6,32.1,0.7,0.0,0.4,8.6,2022
+1086,India,South Asia,129.0,3.8,0.2,18.8,0.6,0.0,0.3,8.1,2022
+1040,Indonesia,Southeast Asia,82.0,5.2,0.4,21.6,0.6,0.0,0.8,8.3,2022
+1062,Iran,Middle East and North Africa,104.0,4.9,0.3,25.7,0.3,0.0,0.4,8.3,2022
+1059,Iraq,Middle East and North Africa,101.0,4.9,0.3,22.2,0.3,0.0,0.2,8.2,2022
+971,Ireland,Western Europe,13.0,7.0,0.5,31.2,0.6,0.0,0.3,8.7,2022
+967,Israel,Middle East and North Africa,9.0,7.4,0.5,32.7,0.5,0.0,0.3,8.6,2022
+989,Italy,Western Europe,31.0,6.5,0.4,32.0,0.4,0.0,0.1,8.6,2022
+1041,Ivory Coast,Sub-Saharan Africa,83.0,5.2,0.2,12.9,0.4,0.0,0.2,8.0,2022
+1020,Jamaica,Latin America and Caribbean,62.0,5.8,0.4,25.8,0.5,0.0,0.1,8.2,2022
+1011,Japan,East Asia,53.0,6.0,0.5,34.6,0.5,0.0,0.0,8.6,2022
+1084,Jordan,Middle East and North Africa,127.0,4.2,0.3,27.0,0.4,0.0,0.1,8.2,2022
+998,Kazakhstan,Central and Eastern Europe,40.0,6.2,0.5,24.4,0.5,0.0,0.2,8.5,2022
+1071,Kenya,Sub-Saharan Africa,113.0,4.5,0.3,16.0,0.4,0.0,0.5,8.0,2022
+990,Kosovo,Central and Eastern Europe,32.0,6.5,0.4,22.8,0.5,0.0,0.5,8.3,2022
+1021,Kyrgyzstan,Central and Eastern Europe,63.0,5.8,0.5,25.5,0.6,0.0,0.3,8.0,2022
+1047,Laos,Southeast Asia,89.0,5.1,0.3,19.2,0.6,0.0,0.3,8.2,2022
+1000,Latvia,Central and Eastern Europe,42.0,6.2,0.5,25.5,0.5,0.0,0.1,8.5,2022
+1093,Lebanon,Middle East and North Africa,136.0,3.0,0.2,25.2,0.1,0.0,0.1,8.3,2022
+1049,Liberia,Sub-Saharan Africa,90.0,5.1,0.3,12.4,0.4,0.0,0.3,7.5,2022
+992,Lithuania,Central and Eastern Europe,34.0,6.4,0.5,26.4,0.5,0.0,0.1,8.5,2022
+964,Luxembourg,Western Europe,6.0,7.4,0.5,31.6,0.6,0.0,0.2,8.8,2022
+1079,Madagascar,Sub-Saharan Africa,121.0,4.3,0.3,15.1,0.2,0.0,0.2,7.6,2022
+1088,Malawi,Sub-Saharan Africa,131.0,3.8,0.1,15.5,0.4,0.0,0.2,7.5,2022
+1026,Malaysia,Southeast Asia,68.0,5.7,0.4,24.8,0.6,0.0,0.4,8.5,2022
+1075,Mali,Sub-Saharan Africa,117.0,4.5,0.2,12.4,0.3,0.0,0.2,7.7,2022
+991,Malta,Western Europe,33.0,6.4,0.5,31.6,0.6,0.0,0.3,8.6,2022
+1083,Mauritania,Sub-Saharan Africa,126.0,4.2,0.4,18.0,0.3,0.0,0.1,8.1,2022
+1009,Mauritius,Sub-Saharan Africa,51.0,6.1,0.5,22.7,0.5,0.0,0.2,8.4,2022
+1004,Mexico,Latin America and Caribbean,46.0,6.1,0.4,24.9,0.6,0.0,0.2,8.4,2022
+1019,Moldova,Central and Eastern Europe,61.0,5.9,0.4,23.9,0.5,0.0,0.2,8.3,2022
+1024,Mongolia,East Asia,66.0,5.8,0.5,18.7,0.4,0.0,0.4,8.3,2022
+1031,Montenegro,Central and Eastern Europe,73.0,5.5,0.4,26.4,0.4,0.0,0.2,8.4,2022
+1052,Morocco,Middle East and North Africa,94.0,5.1,0.1,22.6,0.4,0.0,0.0,8.1,2022
+1053,Mozambique,Sub-Saharan Africa,95.0,5.0,0.3,7.6,0.5,0.0,0.3,7.4,2022
+1077,Myanmar,Southeast Asia,119.0,4.4,0.3,19.6,0.5,0.0,0.8,8.0,2022
+1076,Namibia,Sub-Saharan Africa,118.0,4.5,0.4,14.2,0.3,0.0,0.1,8.2,2022
+1038,Nepal,South Asia,79.0,5.4,0.3,20.0,0.5,0.0,0.4,7.9,2022
+963,Netherlands,Western Europe,5.0,7.4,0.5,31.5,0.6,0.0,0.5,8.6,2022
+968,New Zealand,North America and ANZ,10.0,7.2,0.5,30.1,0.6,0.0,0.4,8.6,2022
+1003,Nicaragua,Latin America and Caribbean,45.0,6.2,0.4,24.7,0.6,0.0,0.3,8.1,2022
+1056,Niger,Sub-Saharan Africa,98.0,5.0,0.2,13.0,0.5,0.0,0.3,7.4,2022
+1070,Nigeria,Sub-Saharan Africa,112.0,4.6,0.3,12.0,0.4,0.0,0.3,8.0,2022
+1042,North Macedonia,Central and Eastern Europe,84.0,5.2,0.4,25.5,0.4,0.0,0.4,8.4,2022
+966,Norway,Western Europe,8.0,7.4,0.5,31.4,0.7,0.0,0.4,8.6,2022
+1073,Pakistan,South Asia,114.0,4.5,0.2,15.0,0.4,0.0,0.3,8.0,2022
+995,Panama,Latin America and Caribbean,37.0,6.3,0.5,28.4,0.5,0.0,0.1,8.5,2022
+1029,Paraguay,Latin America and Caribbean,71.0,5.6,0.5,25.0,0.6,0.0,0.3,8.3,2022
+1030,Peru,Latin America and Caribbean,72.0,5.6,0.4,29.4,0.5,0.0,0.2,8.3,2022
+1017,Philippines,Southeast Asia,59.0,5.9,0.4,20.6,0.6,0.0,0.2,8.2,2022
+1006,Poland,Central and Eastern Europe,48.0,6.1,0.5,28.5,0.5,0.0,0.2,8.5,2022
+1013,Portugal,Western Europe,55.0,6.0,0.4,31.1,0.6,0.0,0.0,8.5,2022
+986,Romania,Central and Eastern Europe,28.0,6.5,0.4,26.2,0.5,0.0,0.1,8.5,2022
+1034,Russia,Central and Eastern Europe,76.0,5.5,0.5,23.4,0.4,0.0,0.2,8.5,2022
+983,Saudi Arabia,Middle East and North Africa,25.0,6.5,0.5,23.1,0.6,0.0,0.1,8.6,2022
+1055,Senegal,Sub-Saharan Africa,97.0,5.0,0.2,17.9,0.4,0.0,0.2,7.9,2022
+1001,Serbia,Central and Eastern Europe,43.0,6.2,0.5,26.3,0.5,0.0,0.4,8.4,2022
+1090,Sierra Leone,Sub-Saharan Africa,133.0,3.6,0.2,10.9,0.4,0.0,0.3,7.6,2022
+985,Singapore,Southeast Asia,27.0,6.5,0.5,34.0,0.6,0.0,0.3,8.7,2022
+993,Slovakia,Central and Eastern Europe,35.0,6.4,0.5,28.3,0.4,0.0,0.2,8.5,2022
+980,Slovenia,Central and Eastern Europe,22.0,6.6,0.5,30.8,0.6,0.0,0.2,8.6,2022
+1044,South Africa,Sub-Saharan Africa,86.0,5.2,0.5,14.4,0.4,0.0,0.1,8.3,2022
+1016,South Korea,East Asia,58.0,5.9,0.4,33.6,0.4,0.0,0.2,8.6,2022
+987,Spain,Western Europe,29.0,6.5,0.5,32.3,0.5,0.0,0.2,8.5,2022
+1078,Sri Lanka,South Asia,120.0,4.4,0.4,26.4,0.5,0.0,0.2,8.3,2022
+1074,State of Palestine,Middle East and North Africa,116.0,4.5,0.4,20.8,0.3,0.0,0.1,8.1,2022
+965,Sweden,Western Europe,7.0,7.4,0.5,32.1,0.7,0.0,0.4,8.6,2022
+962,Switzerland,Western Europe,4.0,7.5,0.5,32.9,0.6,0.0,0.2,8.7,2022
+984,Taiwan Province of China,East Asia,26.0,6.5,0.5,29.3,0.5,0.0,0.1,8.6,2022
+1037,Tajikistan,Central and Eastern Europe,79.0,5.4,0.4,20.7,0.5,0.0,0.2,7.9,2022
+1089,Tanzania,Sub-Saharan Africa,132.0,3.7,0.2,17.0,0.5,0.0,0.4,7.8,2022
+1018,Thailand,Southeast Asia,60.0,5.9,0.5,27.9,0.6,0.0,0.5,8.4,2022
+1085,Togo,Sub-Saharan Africa,128.0,4.1,0.1,14.4,0.3,0.0,0.3,7.7,2022
+1072,Tunisia,Middle East and North Africa,114.0,4.5,0.2,26.2,0.3,0.0,0.0,8.3,2022
+1064,Turkiye,Middle East and North Africa,106.0,4.7,0.4,28.1,0.2,0.0,0.1,8.5,2022
+1069,Uganda,Sub-Saharan Africa,111.0,4.6,0.4,16.7,0.4,0.0,0.4,7.7,2022
+1050,Ukraine,Central and Eastern Europe,92.0,5.1,0.5,23.3,0.4,0.0,0.3,8.3,2022
+982,United Arab Emirates,Middle East and North Africa,24.0,6.6,0.4,25.3,0.6,0.0,0.3,8.6,2022
+975,United Kingdom,Western Europe,17.0,6.9,0.5,30.0,0.5,0.0,0.5,8.6,2022
+974,United States,North America and ANZ,16.0,7.0,0.5,25.1,0.5,0.0,0.4,8.6,2022
+988,Uruguay,Latin America and Caribbean,30.0,6.5,0.5,26.9,0.6,0.0,0.2,8.4,2022
+1010,Uzbekistan,Central and Eastern Europe,52.0,6.1,0.5,24.0,0.7,0.0,0.5,8.2,2022
+1060,Venezuela,Latin America and Caribbean,102.0,4.9,0.4,23.1,0.3,0.0,0.4,0.0,2022
+1033,Vietnam,Southeast Asia,75.0,5.5,0.4,24.4,0.6,0.0,0.2,8.2,2022
+1087,Zambia,Sub-Saharan Africa,130.0,3.8,0.2,12.2,0.5,0.0,0.3,7.9,2022
+1092,Zimbabwe,Sub-Saharan Africa,135.0,3.0,0.3,10.8,0.3,0.0,0.2,7.9,2022
+1232,Afghanistan,South Asia,137.0,1.9,0.3,54.7,0.4,0.8,-0.1,7.3,2023
+1178,Albania,Central and Eastern Europe,83.0,5.3,0.7,69.2,0.8,0.9,-0.0,9.6,2023
+1176,Algeria,Middle East and North Africa,81.0,5.3,0.9,66.5,0.6,0.7,-0.1,9.3,2023
+1147,Argentina,Latin America and Caribbean,52.0,6.0,0.9,67.2,0.8,0.8,-0.1,10.0,2023
+1174,Armenia,Central and Eastern Europe,79.0,5.3,0.8,67.8,0.8,0.7,-0.2,9.6,2023
+1107,Australia,North America and ANZ,12.0,7.1,0.9,71.0,0.9,0.5,0.2,10.8,2023
+1106,Austria,Western Europe,11.0,7.1,0.9,71.2,0.9,0.5,0.1,10.9,2023
+1137,Bahrain,Middle East and North Africa,42.0,6.2,0.8,65.8,0.9,0.7,0.1,10.8,2023
+1213,Bangladesh,South Asia,118.0,4.3,0.5,64.5,0.8,0.7,0.0,8.7,2023
+1112,Belgium,Western Europe,17.0,6.9,0.9,70.9,0.8,0.5,0.0,10.8,2023
+1211,Benin,Sub-Saharan Africa,116.0,4.4,0.4,56.1,0.7,0.6,-0.0,8.1,2023
+1164,Bolivia,Latin America and Caribbean,69.0,5.7,0.8,63.6,0.9,0.8,-0.1,9.0,2023
+1166,Bosnia and Herzegovina,Central and Eastern Europe,71.0,5.6,0.9,67.3,0.7,0.9,0.2,9.6,2023
+1227,Botswana,Sub-Saharan Africa,132.0,3.4,0.8,54.7,0.7,0.8,-0.2,9.6,2023
+1144,Brazil,Latin America and Caribbean,48.0,6.1,0.8,65.7,0.8,0.7,-0.0,9.6,2023
+1172,Bulgaria,Central and Eastern Europe,77.0,5.5,0.9,66.5,0.8,0.9,-0.1,10.1,2023
+1199,Burkina Faso,Sub-Saharan Africa,104.0,4.6,0.7,55.5,0.7,0.8,0.1,7.7,2023
+1210,Cambodia,Southeast Asia,115.0,4.4,0.7,61.9,1.0,0.9,0.1,8.4,2023
+1191,Cameroon,Sub-Saharan Africa,96.0,5.0,0.7,55.8,0.7,0.8,0.0,8.2,2023
+1108,Canada,North America and ANZ,13.0,7.0,0.9,71.4,0.9,0.4,0.2,10.8,2023
+1209,Chad,Sub-Saharan Africa,114.0,4.4,0.7,53.1,0.7,0.8,0.2,7.3,2023
+1130,Chile,Latin America and Caribbean,35.0,6.3,0.9,70.3,0.8,0.8,-0.0,10.1,2023
+1159,China,East Asia,64.0,5.8,0.8,68.7,0.9,0.7,-0.0,9.7,2023
+1167,Colombia,Latin America and Caribbean,72.0,5.6,0.8,69.4,0.8,0.8,-0.1,9.6,2023
+1225,Comoros,Sub-Saharan Africa,130.0,3.5,0.5,59.4,0.5,0.7,-0.0,8.1,2023
+1181,Congo (Brazzaville),Sub-Saharan Africa,86.0,5.3,0.6,56.8,0.7,0.7,-0.0,8.1,2023
+1228,Congo (Kinshasa),Sub-Saharan Africa,133.0,3.2,0.7,55.4,0.7,0.8,0.1,7.0,2023
+1118,Costa Rica,Latin America and Caribbean,23.0,6.6,0.9,70.0,0.9,0.8,-0.1,10.0,2023
+1143,Croatia,Central and Eastern Europe,48.0,6.1,0.9,69.0,0.8,0.9,-0.1,10.3,2023
+1141,Cyprus,Western Europe,46.0,6.1,0.8,72.8,0.7,0.9,-0.1,10.6,2023
+1113,Czechia,Central and Eastern Europe,18.0,6.8,1.0,69.0,0.9,0.9,0.0,10.6,2023
+1097,Denmark,Western Europe,2.0,7.6,1.0,71.2,0.9,0.2,0.1,11.0,2023
+1168,Dominican Republic,Latin America and Caribbean,73.0,5.6,0.8,64.4,0.8,0.7,-0.1,9.8,2023
+1169,Ecuador,Latin America and Caribbean,74.0,5.6,0.8,69.0,0.8,0.8,-0.1,9.3,2023
+1216,Egypt,Middle East and North Africa,121.0,4.2,0.7,63.5,0.7,0.6,-0.2,9.4,2023
+1145,El Salvador,Latin America and Caribbean,50.0,6.1,0.8,65.6,0.9,0.6,-0.1,9.1,2023
+1126,Estonia,Central and Eastern Europe,31.0,6.5,0.9,69.6,0.9,0.4,0.0,10.5,2023
+1219,Ethiopia,Sub-Saharan Africa,124.0,4.1,0.8,60.7,0.7,0.8,0.3,7.7,2023
+1096,Finland,Western Europe,1.0,7.8,1.0,71.2,1.0,0.2,-0.0,10.8,2023
+1116,France,Western Europe,21.0,6.7,0.9,72.3,0.8,0.6,-0.1,10.7,2023
+1189,Gabon,Sub-Saharan Africa,94.0,5.0,0.7,58.3,0.6,0.8,-0.2,9.5,2023
+1214,Gambia,Sub-Saharan Africa,119.0,4.3,0.6,57.9,0.6,0.9,0.4,7.6,2023
+1185,Georgia,Central and Eastern Europe,90.0,5.1,0.7,65.0,0.8,0.6,-0.3,9.6,2023
+1111,Germany,Western Europe,16.0,6.9,0.9,71.3,0.8,0.4,0.0,10.9,2023
+1202,Ghana,Sub-Saharan Africa,107.0,4.6,0.6,58.8,0.8,0.9,0.1,8.6,2023
+1153,Greece,Western Europe,58.0,5.9,0.8,71.2,0.6,0.8,-0.2,10.3,2023
+1138,Guatemala,Latin America and Caribbean,43.0,6.2,0.8,62.9,0.9,0.8,-0.1,9.1,2023
+1186,Guinea,Sub-Saharan Africa,91.0,5.1,0.6,54.2,0.7,0.8,0.1,7.9,2023
+1148,Honduras,Latin America and Caribbean,53.0,6.0,0.8,64.1,0.8,0.8,0.1,8.6,2023
+1177,Hong Kong S.A.R. of China,East Asia,82.0,5.3,0.8,77.3,0.7,0.4,-0.0,11.0,2023
+1146,Hungary,Central and Eastern Europe,51.0,6.0,0.9,67.5,0.8,0.8,-0.1,10.4,2023
+1098,Iceland,Western Europe,3.0,7.5,1.0,72.0,0.9,0.7,0.2,10.9,2023
+1221,India,South Asia,126.0,4.0,0.6,60.8,0.9,0.8,0.1,8.8,2023
+1179,Indonesia,Southeast Asia,83.0,5.3,0.8,63.0,0.9,0.9,0.5,9.4,2023
+1196,Iran,Middle East and North Africa,101.0,4.9,0.8,66.6,0.6,0.7,0.2,9.6,2023
+1193,Iraq,Middle East and North Africa,98.0,4.9,0.7,63.4,0.6,0.9,-0.0,9.1,2023
+1109,Ireland,Western Europe,14.0,6.9,0.9,71.3,0.9,0.4,0.1,11.5,2023
+1099,Israel,Middle East and North Africa,4.0,7.5,0.9,72.7,0.8,0.7,-0.0,10.6,2023
+1128,Italy,Western Europe,33.0,6.4,0.9,72.0,0.7,0.8,-0.1,10.6,2023
+1188,Ivory Coast,Sub-Saharan Africa,93.0,5.1,0.6,56.0,0.7,0.7,0.0,8.6,2023
+1163,Jamaica,Latin America and Caribbean,68.0,5.7,0.9,66.6,0.8,0.9,-0.1,9.2,2023
+1142,Japan,East Asia,47.0,6.1,0.9,74.3,0.8,0.6,-0.2,10.6,2023
+1218,Jordan,Middle East and North Africa,123.0,4.1,0.7,67.6,0.8,0.7,-0.2,9.1,2023
+1139,Kazakhstan,Central and Eastern Europe,44.0,6.1,0.9,65.8,0.9,0.7,0.0,10.2,2023
+1206,Kenya,Sub-Saharan Africa,111.0,4.5,0.7,58.5,0.7,0.9,0.3,8.5,2023
+1129,Kosovo,Central and Eastern Europe,34.0,6.4,0.8,65.2,0.9,0.9,0.3,9.4,2023
+1157,Kyrgyzstan,Central and Eastern Europe,62.0,5.8,0.9,66.9,0.9,0.9,0.2,8.5,2023
+1184,Laos,Southeast Asia,89.0,5.1,0.7,60.9,0.9,0.7,0.1,9.0,2023
+1136,Latvia,Central and Eastern Europe,41.0,6.2,0.9,66.4,0.8,0.8,-0.1,10.4,2023
+1231,Lebanon,Middle East and North Africa,136.0,2.4,0.5,66.1,0.5,0.9,-0.1,9.5,2023
+1220,Liberia,Sub-Saharan Africa,125.0,4.0,0.6,56.7,0.7,0.8,0.2,7.3,2023
+1115,Lithuania,Central and Eastern Europe,20.0,6.8,0.9,67.4,0.7,0.8,-0.1,10.6,2023
+1104,Luxembourg,Western Europe,9.0,7.2,0.9,71.7,0.9,0.3,0.0,11.7,2023
+1222,Madagascar,Sub-Saharan Africa,127.0,4.0,0.6,58.0,0.5,0.7,0.1,7.3,2023
+1226,Malawi,Sub-Saharan Africa,131.0,3.5,0.5,58.5,0.8,0.7,0.0,7.3,2023
+1150,Malaysia,Southeast Asia,55.0,6.0,0.8,65.7,0.9,0.8,0.2,10.2,2023
+1215,Mali,Sub-Saharan Africa,120.0,4.2,0.6,55.4,0.7,0.8,-0.0,7.7,2023
+1132,Malta,Western Europe,37.0,6.3,0.9,71.6,0.9,0.7,0.1,10.7,2023
+1198,Mauritania,Sub-Saharan Africa,103.0,4.7,0.6,60.5,0.6,0.7,-0.0,8.6,2023
+1154,Mauritius,Sub-Saharan Africa,59.0,5.9,0.9,63.8,0.8,0.8,-0.0,10.0,2023
+1131,Mexico,Latin America and Caribbean,36.0,6.3,0.8,65.8,0.9,0.8,-0.1,9.8,2023
+1158,Moldova,Central and Eastern Europe,63.0,5.8,0.9,65.3,0.8,0.9,-0.1,9.5,2023
+1156,Mongolia,East Asia,61.0,5.8,0.9,60.5,0.7,0.8,0.2,9.4,2023
+1162,Montenegro,Central and Eastern Europe,67.0,5.7,0.9,67.1,0.8,0.8,0.1,9.8,2023
+1195,Morocco,Middle East and North Africa,100.0,4.9,0.6,63.9,0.8,0.8,-0.2,9.0,2023
+1192,Mozambique,Sub-Saharan Africa,97.0,5.0,0.7,51.5,0.9,0.7,0.0,7.1,2023
+1212,Myanmar,Southeast Asia,117.0,4.4,0.8,61.4,0.7,0.7,0.5,8.4,2023
+1200,Namibia,Sub-Saharan Africa,105.0,4.6,0.8,56.9,0.7,0.8,-0.1,9.1,2023
+1173,Nepal,South Asia,78.0,5.4,0.7,61.8,0.8,0.8,0.1,8.3,2023
+1100,Netherlands,Western Europe,5.0,7.4,0.9,71.6,0.9,0.4,0.2,10.9,2023
+1105,New Zealand,North America and ANZ,10.0,7.1,1.0,70.4,0.9,0.3,0.2,10.7,2023
+1135,Nicaragua,Latin America and Caribbean,40.0,6.3,0.9,65.6,0.9,0.6,0.0,8.6,2023
+1204,Niger,Sub-Saharan Africa,109.0,4.5,0.6,56.6,0.8,0.7,0.0,7.1,2023
+1190,Nigeria,Sub-Saharan Africa,95.0,5.0,0.7,54.9,0.7,0.9,0.1,8.5,2023
+1182,North Macedonia,Central and Eastern Europe,87.0,5.3,0.8,66.5,0.8,0.9,0.1,9.7,2023
+1102,Norway,Western Europe,7.0,7.3,0.9,71.5,0.9,0.3,0.1,11.1,2023
+1203,Pakistan,South Asia,108.0,4.6,0.6,57.3,0.8,0.8,0.0,8.5,2023
+1133,Panama,Latin America and Caribbean,38.0,6.3,0.9,69.0,0.9,0.9,-0.1,10.3,2023
+1161,Paraguay,Latin America and Caribbean,66.0,5.7,0.9,65.9,0.9,0.8,0.0,9.5,2023
+1170,Peru,Latin America and Caribbean,75.0,5.5,0.8,69.8,0.8,0.9,-0.1,9.4,2023
+1171,Philippines,Southeast Asia,76.0,5.5,0.8,62.0,0.9,0.7,-0.1,9.0,2023
+1134,Poland,Central and Eastern Europe,39.0,6.3,0.9,69.0,0.8,0.7,-0.0,10.5,2023
+1151,Portugal,Western Europe,56.0,6.0,0.9,71.2,0.9,0.9,-0.2,10.4,2023
+1119,Romania,Central and Eastern Europe,24.0,6.6,0.8,67.1,0.9,0.9,-0.2,10.3,2023
+1165,Russia,Central and Eastern Europe,70.0,5.7,0.9,64.9,0.7,0.8,-0.0,10.2,2023
+1125,Saudi Arabia,Middle East and North Africa,30.0,6.5,0.9,64.4,0.9,0.7,-0.1,10.7,2023
+1197,Senegal,Sub-Saharan Africa,102.0,4.9,0.6,60.0,0.8,0.8,0.0,8.2,2023
+1140,Serbia,Central and Eastern Europe,44.0,6.1,0.9,67.1,0.8,0.8,0.2,9.9,2023
+1230,Sierra Leone,Sub-Saharan Africa,135.0,3.1,0.6,54.9,0.7,0.9,0.1,7.4,2023
+1120,Singapore,Southeast Asia,25.0,6.6,0.9,73.8,0.9,0.1,0.1,11.6,2023
+1124,Slovakia,Central and Eastern Europe,29.0,6.5,1.0,68.8,0.8,0.9,-0.0,10.4,2023
+1117,Slovenia,Central and Eastern Europe,22.0,6.6,1.0,71.1,0.9,0.8,0.0,10.6,2023
+1180,South Africa,Sub-Saharan Africa,85.0,5.3,0.9,57.0,0.7,0.9,-0.1,9.5,2023
+1152,South Korea,East Asia,57.0,6.0,0.8,73.6,0.7,0.7,-0.0,10.7,2023
+1127,Spain,Western Europe,32.0,6.4,0.9,72.4,0.8,0.7,-0.1,10.5,2023
+1207,Sri Lanka,South Asia,112.0,4.4,0.8,67.2,0.8,0.8,-0.0,9.5,2023
+1194,State of Palestine,Middle East and North Africa,99.0,4.9,0.9,47.1,0.7,0.8,-0.1,8.7,2023
+1101,Sweden,Western Europe,6.0,7.4,0.9,72.2,0.9,0.2,0.2,10.9,2023
+1103,Switzerland,Western Europe,8.0,7.2,0.9,72.9,0.9,0.3,0.0,11.2,2023
+1122,Taiwan Province of China,East Asia,27.0,6.5,0.9,69.6,0.8,0.7,-0.1,10.8,2023
+1175,Tajikistan,Central and Eastern Europe,80.0,5.3,0.8,62.2,0.8,0.5,-0.1,8.2,2023
+1224,Tanzania,Sub-Saharan Africa,129.0,3.7,0.7,59.4,0.8,0.6,0.2,7.9,2023
+1155,Thailand,Southeast Asia,60.0,5.8,0.9,68.4,0.8,0.9,0.3,9.8,2023
+1217,Togo,Sub-Saharan Africa,122.0,4.1,0.6,57.4,0.7,0.7,0.0,7.7,2023
+1205,Tunisia,Middle East and North Africa,110.0,4.5,0.7,67.0,0.6,0.9,-0.2,9.2,2023
+1201,Turkiye,Middle East and North Africa,106.0,4.6,0.8,68.7,0.5,0.8,-0.1,10.3,2023
+1208,Uganda,Sub-Saharan Africa,113.0,4.4,0.8,58.9,0.7,0.9,0.1,7.7,2023
+1187,Ukraine,Central and Eastern Europe,92.0,5.1,0.9,64.6,0.8,0.9,0.2,9.3,2023
+1121,United Arab Emirates,Middle East and North Africa,26.0,6.6,0.8,66.2,0.9,0.6,0.1,11.1,2023
+1114,United Kingdom,Western Europe,19.0,6.8,0.9,70.3,0.9,0.5,0.3,10.7,2023
+1110,United States,North America and ANZ,15.0,6.9,0.9,65.8,0.8,0.7,0.1,11.0,2023
+1123,Uruguay,Latin America and Caribbean,28.0,6.5,0.9,67.5,0.9,0.6,-0.1,10.0,2023
+1149,Uzbekistan,Central and Eastern Europe,54.0,6.0,0.9,65.3,0.9,0.6,0.2,8.9,2023
+1183,Venezuela,Latin America and Caribbean,88.0,5.2,0.8,64.0,0.7,0.8,0.1,5.5,2023
+1160,Vietnam,Southeast Asia,65.0,5.8,0.8,65.5,0.9,0.8,-0.0,9.3,2023
+1223,Zambia,Sub-Saharan Africa,128.0,4.0,0.7,55.0,0.8,0.8,0.1,8.1,2023
+1229,Zimbabwe,Sub-Saharan Africa,134.0,3.2,0.7,54.0,0.7,0.8,-0.0,7.6,2023
